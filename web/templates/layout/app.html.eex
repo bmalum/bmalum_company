@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" ng-app>
+<html lang="en" ng-app="bmalumCompany">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,49 +9,49 @@
     <script src="https://cdn.bmalum.com/jquery/2.1.4/jquery.js"></script>
     <script src="https://cdn.bmalum.com/semantic-ui/2.1/semantic.js"></script>
     <script src="https://cdn.bmalum.com/angularjs/1.4.7/angular.js"></script>
+    <script src="http://cdn.bmalum.net/angularjs/1.4.7/angular-animate.js"></script>
+    <script src="http://cdn.bmalum.com/angular-ui/0.2.15/angular-ui-router.js"></script>
     <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
-    <link rel="stylesheet" href="http://cdn.bmalum.net/semantic-ui/2.1/semantic.css">
+    <link rel="stylesheet" href="https://cdn.bmalum.com/semantic-ui/2.1/semantic.css">
+    <link rel="stylesheet" href="http://cdn.bmalum.com/animate-css/animate.css">
     <title>bMalum!</title>
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
   </head>
 
   <body>
-    <div id='sidebar_right' class="ui sidebar inverted vertical menu">
+    <div id="sidebar_right" class="ui left vertical inverted sidebar labeled icon menu">
       <a class="item">
-        1
+        <i class="home icon"></i>
+        Home
       </a>
       <a class="item">
-        2
+        <i class="block layout icon"></i>
+        Topics
       </a>
       <a class="item">
-        3
+        <i class="smile icon"></i>
+        Friends
       </a>
     </div>
+
+
     <div class="pusher">
-      <div class="ui secondary  menu">
-        <a class="active item">
-          Home
-        </a>
-        <a class="item">
-          Messages
-        </a>
-        <a class="item">
-          Friends
-        </a>
-        <div class="right menu">
-          <div class="item">
-            <div class="ui icon input">
-              <input type="text" placeholder="Search...">
-              <i class="search link icon"></i>
-            </div>
-          </div>
-          <a class="ui item">
-            Logout
-          </a>
-        </div>
-      </div>
-      <h1>Your site's actual content</h1>
-    </div>    
+     <div class="ui top fixed olive borderless menu">
+  <div class="item">
+    <img src="http://212.47.242.176/bmalum/logos/logo_b_green.png">
+  </div>
+  <a class="item">Home</a>
+  <a class="item">Company</a>
+  <a class="item">Services</a>
+  <a class="item">Projects</a>
+</div>
+
+<section class="padding_for_nav firstpage">
+    <div ui-view class="slide-left">
+        <img class="animated fadein zoomIn ui large image rounded centered" src="http://212.47.242.176/bmalum/logos/logo_bMalum_green.png">
+    </div>
+</section>
+</div>
   </body>
 
 </html>
