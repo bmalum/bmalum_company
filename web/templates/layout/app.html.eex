@@ -97,8 +97,8 @@
     <div class="stackable ui grid container">
       <div class="sixteen wide column padding_top_40px">
         <div class="row">
-          <h1 class="ui header centered">Über bMalum</h1>
-          <h3 class="bm centered"> Manch Krasser scheiß braucht Krasse Leute die es umsetzen</h3>
+          <h1 class="ui header centered">Dienstleistungen</h1>
+          <h3 class="bm centered"> Eine weiterer gelogener Absatz der Firmenchefs umstimmen sollte mich zu engagieren</h3>
           <div class="ui fluid centered cards">
             <div class="card">
               <div class="content">
@@ -167,7 +167,7 @@
                   Details
                 </div>
                 <div class="description">
-                  Mit unseren Partner und unseren eigenen Conten Devlivery Netzwerk, können wir weltweite Erreichbarkeit und beindrruckende Geschwindikeiten anbieten.
+                  Mit unseren Partner und unseren eigenen Conten Devlivery Netzwerk, können wir weltweite Erreichbarkeit und beindruckende Geschwindikeiten anbieten.
                 </div>
               </div>
               <div class="extra content">
@@ -205,7 +205,7 @@
                   Details
                 </div>
                 <div class="description">
-                  Durch unsere Erfahrung mit Software Defined Storage (ZFS) und hohen Datenmengen bieten wir auch Backup- und Speicherlösungen bist zu 144TB pro Server an.
+                  Durch unsere Erfahrung mit Software Defined Storage (ZFS) und hohen Datenmengen bieten wir auch Backup- und Speicherlösungen bist zu 192TB pro Server an.
                 </div>
               </div>
               <div class="extra content">
@@ -219,6 +219,55 @@
         </div>
       </div>
     </div>
+
+ <div class="ui horizontal divider header">
+      <i class="angle double down icon"></i>
+    </div>
+
+ <div class="stackable ui grid container">
+      <div class="sixteen wide column padding_top_40px">
+        <div class="row">
+          <h1 class="ui header centered">Consulting</h1>
+          <h3 class="bm centered"> Wir sprechen Ihre Sprache und verstecken nichts hinter Fach-Chinesisch</h3>
+          <p class="bm centered">Informationstechnologie entwickelt immer schneller, wird vernetzter intelligenter und auch komplexer. Dir Firma immer auf den neusten Stand halten kann schwierig sein, desshalb kümmern wir uns um Ihre IT Infrasruktur und erklären Ihnen was momentan Stand der Dinge ist und ob diese auch für Ihren Einsatzzweck geeignet sind.  </p>
+        </div>
+      </div>
+    </div>
+
+
+     <div class="ui horizontal divider header">
+      <i class="angle double down icon"></i>
+    </div>
+
+ <div class="stackable ui grid container">
+      <div class="sixteen wide column padding_top_40px">
+        <div class="row">
+          <h1 class="ui header centered">Über bMalum</h1>
+          <h3 class="bm centered">Gegründet um zu helfen.</h3>
+          <p class="bm centered">Was uns immer störte waren die Hürden bei der Kommunikation zwischen Programmieren und Kunden. Auch wenn dazwischen noch der Verkauf und Führungsmanagemant steht um zu "übersetzten" neigen diese meist zu beschönigen. Auch oft hören wir:  "So einfach geht das aber nicht". Daher ist es für uns wichtig eine neutrale Schicht zwischen Kunden zu bilden, Probleme zu erkennen und diese auch helfen zu beseitigen, nicht nur schön zu reden.</p>
+          <h3 class="bm centered">Warum ein Tropfen als Logo?</h3>
+          <p class="bm centered"> Dieser Tropfen symbolisiert einen Elixier Tropfen. Diesen habe ich gewählt, da die meiste Software in unserer Infrastruktur die tragende Aufgaben hat (außer Operating Sytsems) in Elixir geschrieben ist. Die Server hinter den CDN und auch die Webserver sind zu 90% powered by Elixir. Diese Sprache ist für Skalierung und hohe Verfügbarkeit konzipiert, man kann sogar neue Features zu laufenden Systemen hinzufügen ohne diese zu stoppen.
+          <h3 class="bm centered">bMalum & OpenSource ?</h3>
+          <p class="bm centered">Auch schon vor der Gründung von bMalum, legten wir Wert auf OpenSource. Die OpenScource Gemeinschaft ist groß und mächtig, gäbe es diese nicht, könntet ihr euch Informationsysteme und die Welt nicht mehr vorstellen. Desshalb Enwtickeln wir auch an OpenSource Projelten mit und wünschen uns auch von den Auftragsgeber diese OpenSource entwickeln zu lassen. Dies hat mehrer Vorteile, welche wir gerne weiter aufschlüsseln.</p>  
+        </div>
+      </div>
+    </div>
+
+     <div class="ui horizontal divider header">
+      <i class="angle double down icon"></i>
+    </div>
+
+ <div class="stackable ui grid container">
+     <div class="sixteen wide column padding_top_40px">
+      <h2 class="bm centered">Partner & Dienstleister</p>
+      <div class="ui small images">
+        <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Amazon-Logo.png">
+        <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Seagate-Logo.jpg">
+        <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/DigitalOcean-Logo.png">
+        <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Scaleway-Logo.png">
+      </div>
+    </div>
+  </div>
 
 
 
