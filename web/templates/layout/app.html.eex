@@ -17,7 +17,6 @@
     <title>bMalum!</title>
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
   </head>
-
   <body>
     <div id="sidebar_right" class="ui left vertical inverted sidebar labeled icon menu">
       <a class="item">
@@ -36,22 +35,131 @@
 
 
     <div class="pusher">
-     <div class="ui top fixed olive borderless menu">
-  <div class="item">
-    <img src="http://212.47.242.176/bmalum/logos/logo_b_green.png">
-  </div>
-  <a class="item">Home</a>
-  <a class="item">Company</a>
-  <a class="item">Services</a>
-  <a class="item">Projects</a>
-</div>
+      <div class="ui top fixed olive borderless menu animated fadeInDown">
+        <div class="item">
+          <img src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+        </div>
+        <a class="item">Home</a>
+        <a class="item">Über</a>
+        <a class="item">Dienste</a>
+        <a class="item">Consulting</a>
+      </div>
 
-<section class="padding_for_nav firstpage">
-    <div ui-view class="slide-left">
-        <img class="animated fadein zoomIn ui large image rounded centered" src="http://212.47.242.176/bmalum/logos/logo_bMalum_green.png">
+
+      <section class="padding_for_nav firstpage">
+        <div ui-view class="slide-left">
+          <img class="animated fadein zoomIn ui large image rounded centered" src="http://cdn.bmalum.com/bmalum/logos/logo_bMalum_green.png">
+        </div>
+      </section>
+
+
+    <div class="ui horizontal divider header">
+      <i class="angle double down icon"></i></div>
     </div>
-</section>
-</div>
-  </body>
+<div class="stackable ui grid container">
+    <div class="twelve wide column centered padding_top_40px font_size_22px">
+        <h1 class="ui header centered">Consulting & Entwicklung</h1>
+        <p><center>Wir unterstützen und beraten Sie gerne bei der Umsetzung Ihrer IT-Ideen und helfen bei den wichtigen Entscheidungen.</center></p>
+        <p><center>Gerne übernehmen wir auch die Fachgespräche für Sie und helfen vermitteln zwischen Kunde und Programmierer. Wir sehen uns auch gerne Ihre bestehende Projekte an und helfen bei Performance Engpässen oder bei Skalierungsproblemen.</center></p>
+      </div>
+    </div> 
 
+    <div class="ui horizontal divider header">
+      <i class="angle double down icon"></i>
+    </div>
+
+<div class="stackable ui grid container">
+    <div class="eight wide column padding_top_40px">
+      <div class="seven wide column">
+        <div class="row">
+        <h2 class="ui header centered">Consulting not Marketing</h2>
+        <p>My Interests is not to sell you Products, we want a fair and perfect IT-Enviroment for you.</p>
+        <p>Any arbitrary decision in a component is included as a setting that developers can modify.</p>
+      </div>
+      <div class="row padding_top_50px">
+        <h2 class="ui header centered">Some more esotheric </h2>
+        <p>My Interests is not to sell you Products, we want a fair and perfect IT-Enviroment for you.</p>
+        <p>Any arbitrary decision in a component is included as a setting that developers can modify.</p>
+      </div>
+      </div>
+    </div>
+    <div class="eight wide column">
+      <img class="ui circular medium centered image" src="http://cdn.bmalum.net/testfiles/suit_man.jpg">
+    </div>
+</div>
+
+
+
+    <div class="ui horizontal divider header">
+      <i class="angle double down icon"></i>
+    </div>
+
+<div class="stackable ui grid container">
+    <div class="sixteen wide column padding_top_40px">
+      <div class="row">
+      <h1 class="ui header centered">Über bMalum</h1>
+    </div>
+    </div> </div>
+
+
+
+
+
+<div class="ui inverted vertical footer segment padding_top_40px margin_top_40px">
+  <div class="ui center aligned container">
+    <div class="ui stackable inverted grid">
+      <div class="three wide column">
+        <h4 class="ui inverted header">Dienste</h4>
+        <div class="ui inverted link list">
+          <a class="disabled item" href="https://www.transifex.com/organization/semantic-org/" target="_blank">Consulting</a>
+          <a class="disabled item" href="https://github.com/Semantic-Org/Semantic-UI/issues" target="_blank">Entwicklung</a>
+          <a class="disabled item" href="https://gitter.im/Semantic-Org/Semantic-UI" target="_blank">IT-Analyse</a>
+          <a class="disabled item" href="/cla.html" target="_blank">Translation</a>
+        </div>
+      </div>
+      <div class="three wide column">
+        <h4 class="ui inverted header">Network</h4>
+        <div class="ui inverted link list">
+          <a class="item" href="https://github.com/bmalum/" target="_blank">GitHub</a>
+          <a class="item" href="mailto:martin@bmalum.com">Kontakt</a>
+          <a class="item" href="http://legacy.semantic-ui.com">Talks</a>
+        </div>
+      </div>
+      <div class="three wide column">
+        <h4 class="ui inverted header">Referenzen</h4>
+        <div class="ui inverted link list">
+          <a href="http://edv-systeme.at" class="item">K&M EDV</a>
+          <a href="http://apl-apparatebau.com" class="item">APL-Apparatebau GmbH</a>
+          <a href="http://ingrid-partl.com" class="item">Ingrid-Partl</a>
+          <a href="http://malermeister" class="item"></a>
+        </div>
+      </div>
+      <div class="three wide column">
+        <h4 class="ui inverted header">Rechtliches</h4>
+        <div class="ui inverted link list">
+          <a href="#" class="item">ABG</a>
+          <a href="#" class="item">Impressum</a>
+          <a href="#" class="item">Datenschutzerklärung</a>
+          <a href="#" class="item">Disclaimer</a>
+        </div>
+      </div> 
+      <div class="four wide right floated column">
+        <h4 class="ui inverted teal header">Firma:</h4>
+        <div class="ui inverted list">
+          <div class="item">Firmenname: bMalum</div>
+          <div class="item">Firmenbuchnr: N/A</div>
+          <div class="item">UID: N/A</div>
+          <div class="item">Behörde: N/A</div>
+        </div>
+      </div>
+    </div>
+    <div class="ui inverted section divider"></div>
+    <img src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png" class="ui centered mini image">
+    <div class="ui horizontal inverted small divided link list">
+      <a class="item" href="http://semantic-ui.mit-license.org/" target="_blank">OpenSource <3 Company</a>
+    </div>
+  </div>
+</div>
+
+  </body>
 </html>
