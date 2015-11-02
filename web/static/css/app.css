@@ -68,6 +68,10 @@ form.link, form.button {
   line-height: 1.5em;
 }
 
+.bm.centered{
+  text-align: center;
+}
+
 .debug1{
   background-color: grey;
 }
