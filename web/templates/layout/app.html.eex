@@ -225,11 +225,24 @@
     </div>
 
  <div class="stackable ui grid container">
-      <div class="sixteen wide column padding_top_40px">
-        <div class="row">
+      <div class="row">
+      <div class="ten wide column padding_top_40px">
           <h1 class="ui header centered">Consulting</h1>
           <h3 class="bm centered"> Wir sprechen Ihre Sprache und verstecken nichts hinter Fach-Chinesisch</h3>
           <p class="bm centered">Informationstechnologie entwickelt immer schneller, wird vernetzter intelligenter und auch komplexer. Dir Firma immer auf den neusten Stand halten kann schwierig sein, desshalb kümmern wir uns um Ihre IT Infrasruktur und erklären Ihnen was momentan Stand der Dinge ist und ob diese auch für Ihren Einsatzzweck geeignet sind.  </p>
+        </div>
+        <div class="six wide column">
+          <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/plant-color.jpg">
+        </div>
+      </div>
+      <div class="row">
+        <div class="six wide column">
+          <img class="ui rounded image" src="http://cdn.bmalum.net/images/bmalum/var/hosting.png">
+        </div>
+        <div class="ten wide column padding_top_40px">
+          <h1 class="ui header centered">Dienste</h1>
+          <h3 class="bm centered">Was Sie brauchen, immer für Sie da. </h3>
+          <p class="bm centered">Durch unsere Partner sind wir in der Lage Ihnen eine Infrastrukur zu bieten, oder mit Ihnen aufzubauen, welche horizontal skaliert. Sie bezahlen in dem Moment nur die Ressourcen welche Ihr Dienst auch benötigt und die Infrastruktur wächst mit Ihrem Business mit.</p>
         </div>
       </div>
     </div>
@@ -244,7 +257,7 @@
         <div class="row">
           <h1 class="ui header centered">Über bMalum</h1>
           <h3 class="bm centered">Gegründet um zu helfen.</h3>
-          <p class="bm centered">Was uns immer störte waren die Hürden bei der Kommunikation zwischen Programmieren und Kunden. Auch wenn dazwischen noch der Verkauf und Führungsmanagemant steht um zu "übersetzten" neigen diese meist zu beschönigen. Auch oft hören wir:  "So einfach geht das aber nicht". Daher ist es für uns wichtig eine neutrale Schicht zwischen Kunden zu bilden, Probleme zu erkennen und diese auch helfen zu beseitigen, nicht nur schön zu reden.</p>
+          <p class="bm centered">Was uns immer störte waren die Hürden bei der Kommunikation zwischen Programmierern und Kunden. Auch wenn zwischen Kunde auch noch der Verkauf und Führungsmanagemant ist, um zu "übersetzten", neigen diese meist zu beschönigen. Auch oft hören wir:  "So einfach geht das aber nicht". Daher ist es für uns wichtig, eine neutrale Schicht zwischen Kunden zu bilden, Probleme zu erkennen und diese auch helfen zu beseitigen, nicht nur schön zu reden.</p>
           <h3 class="bm centered">Warum ein Tropfen als Logo?</h3>
           <p class="bm centered"> Dieser Tropfen symbolisiert einen Elixier Tropfen. Diesen habe ich gewählt, da die meiste Software in unserer Infrastruktur die tragende Aufgaben hat (außer Operating Sytsems) in Elixir geschrieben ist. Die Server hinter den CDN und auch die Webserver sind zu 90% powered by Elixir. Diese Sprache ist für Skalierung und hohe Verfügbarkeit konzipiert, man kann sogar neue Features zu laufenden Systemen hinzufügen ohne diese zu stoppen.
           <h3 class="bm centered">bMalum & OpenSource ?</h3>
@@ -315,9 +328,9 @@
             <h4 class="ui inverted teal header">Firma:</h4>
             <div class="ui inverted list">
               <div class="item">Firmenname: bMalum</div>
-              <div class="item">Firmenbuchnr: N/A</div>
-              <div class="item">UID: N/A</div>
-              <div class="item">Behörde: N/A</div>
+              <div class="item">Firmenbuchnr: 123456789T</div>
+              <div class="item">UID: AT97531</div>
+              <div class="item">Behörde: BH Kitzbühl</div>
             </div>
           </div>
         </div>
