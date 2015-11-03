@@ -18,7 +18,7 @@
     <title>bMalum!</title>
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
   </head>
-  <body ng-controller="MyCtrl">
+  <body ng-controller="ScrollController">
     <div id="sidebar_right" class="ui left vertical inverted sidebar labeled icon menu">
       <a class="item">
         <i class="home icon"></i>
@@ -36,11 +36,12 @@
 
 
     <div class="pusher">
+      <section id="intro">
       <nav class="ui top fixed olive borderless menu animated fadeInDown">
         <div class="item">
           <img src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
         </div>
-        <a ng-click="toTheTop()" class="item">Home</a>
+        <a href="#intro" offset="30" du-smooth-scroll du-scrollspy class="item">Home</a>
         <a href="#services" offset="30" du-smooth-scroll du-scrollspy class="item">Dienstleistungen</a>
         <a href="#consulting" offset="30" du-smooth-scroll du-scrollspy class="item">Consulting</a>
         <a href="#about" offset="30" du-smooth-scroll du-scrollspy class="item">Über bmalum</a>
@@ -89,6 +90,7 @@
         <img class="ui circular medium centered image" src="http://cdn.bmalum.net/testfiles/suit_man.jpg">
       </div>
     </div>
+  </section>
 
 
     <section id="services">
