@@ -44,7 +44,7 @@
         <a href="#services" offset="30" du-smooth-scroll du-scrollspy class="item">Dienstleistungen</a>
         <a href="#consulting" offset="30" du-smooth-scroll du-scrollspy class="item">Consulting</a>
         <a href="#about" offset="30" du-smooth-scroll du-scrollspy class="item">Über bmalum</a>
-        <a href="#partner" offset="10 0" du-smooth-scroll du-scrollspy class="item">Partner & Dienstleister</a>      
+        <a href="#partner" offset="30" du-smooth-scroll du-scrollspy class="item">Partner & Dienstleister</a>      
         </nav>
 
 
@@ -276,6 +276,8 @@
      <div class="ui horizontal divider header">
       <i class="angle double down icon"></i>
     </div>
+    <div class="ui horizontal hidden divider header">
+    </div>
 
  <div class="stackable ui grid container">
      <div class="sixteen wide column padding_top_40px">
@@ -290,7 +292,8 @@
   </div>
 <div class="ui horizontal hidden divider header">
     </div>
-
+<div class="ui horizontal hidden divider header">
+    </div>
 
 </section>
 
