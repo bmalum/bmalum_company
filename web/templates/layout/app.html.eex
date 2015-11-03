@@ -11,13 +11,14 @@
     <script src="https://cdn.bmalum.com/angularjs/1.4.7/angular.js"></script>
     <script src="http://cdn.bmalum.net/angularjs/1.4.7/angular-animate.js"></script>
     <script src="http://cdn.bmalum.com/angular-ui/0.2.15/angular-ui-router.js"></script>
+    <script src="http://cdn.bmalum.net/angular-scroll/angular-scroll.js"></script>
     <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
     <link rel="stylesheet" href="https://cdn.bmalum.com/semantic-ui/2.1/semantic.css">
     <link rel="stylesheet" href="http://cdn.bmalum.com/animate-css/animate.css">
     <title>bMalum!</title>
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
   </head>
-  <body>
+  <body ng-controller="MyCtrl">
     <div id="sidebar_right" class="ui left vertical inverted sidebar labeled icon menu">
       <a class="item">
         <i class="home icon"></i>
@@ -35,18 +36,19 @@
 
 
     <div class="pusher">
-      <div class="ui top fixed olive borderless menu animated fadeInDown">
+      <nav class="ui top fixed olive borderless menu animated fadeInDown">
         <div class="item">
           <img src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
         </div>
-        <a class="item">Home</a>
-        <a class="item">Über bmalum</a>
-        <a class="item">Dienste</a>
-        <a class="item">Consulting</a>
-      </div>
+        <a ng-click="toTheTop()" class="item">Home</a>
+        <a href="#services" offset="30" du-smooth-scroll du-scrollspy class="item">Dienstleistungen</a>
+        <a href="#consulting" offset="30" du-smooth-scroll du-scrollspy class="item">Consulting</a>
+        <a href="#about" offset="30" du-smooth-scroll du-scrollspy class="item">Über bmalum</a>
+        <a href="#partner" offset="10 0" du-smooth-scroll du-scrollspy class="item">Partner & Dienstleister</a>      
+        </nav>
 
 
-      <section class="padding_for_nav firstpage">
+      <section id="top" class="padding_for_nav firstpage">
       <div ui-view class="slide-left">
         <img class="animated fadein zoomIn ui large image rounded centered" src="http://cdn.bmalum.com/bmalum/logos/logo_bMalum_green.png">
       </div>
@@ -54,7 +56,7 @@
 
 
       <div class="ui horizontal divider header">
-        <i class="angle double down icon"></i></div>
+        <i class="angle double down icon bm centered"></i></div>
     </div>
     <div class="stackable ui grid container">
       <div class="twelve wide column centered padding_top_40px font_size_22px">
@@ -62,7 +64,7 @@
         <p><center>Wir unterstützen und beraten Sie gerne bei der Umsetzung Ihrer IT-Ideen und helfen bei den wichtigen Entscheidungen.</center></p>
         <p><center>Gerne übernehmen wir auch die Fachgespräche für Sie und vermitteln zwischen Kunde und Programmierer. Wir sehen uns auch gerne Ihre bestehenden Projekte an und helfen bei Performance-Engpässen oder bei Skalierungsproblemen.</center></p>
       </div>
-    </div> 
+    </div>
 
     <div class="ui horizontal divider header">
       <i class="angle double down icon"></i>
@@ -89,12 +91,12 @@
     </div>
 
 
-
+    <section id="services">
     <div class="ui horizontal divider header">
       <i class="angle double down icon"></i>
     </div>
 
-    <div class="stackable ui grid container">
+    <div  class="stackable ui grid container">
       <div class="sixteen wide column padding_top_40px">
         <div class="row">
           <h1 class="ui header centered">Dienstleistungen</h1>
@@ -219,7 +221,9 @@
         </div>
       </div>
     </div>
+    </section>
 
+<section id="consulting">
  <div class="ui horizontal divider header">
       <i class="angle double down icon"></i>
     </div>
@@ -246,8 +250,9 @@
         </div>
       </div>
     </div>
+  </section>
 
-
+<section id="about">
      <div class="ui horizontal divider header">
       <i class="angle double down icon"></i>
     </div>
@@ -265,7 +270,9 @@
         </div>
       </div>
     </div>
+</section>
 
+<section id="partner">
      <div class="ui horizontal divider header">
       <i class="angle double down icon"></i>
     </div>
@@ -281,9 +288,11 @@
       </div>
     </div>
   </div>
+<div class="ui horizontal hidden divider header">
+    </div>
 
 
-
+</section>
 
 
     <div class="ui inverted vertical footer segment padding_top_40px margin_top_40px">
@@ -325,7 +334,7 @@
             </div>
           </div> 
           <div class="four wide right floated column">
-            <h4 class="ui inverted teal header">Firma:</h4>
+            <h4 class="ui inverted bm greentext  header">Firma:</h4>
             <div class="ui inverted list">
               <div class="item">Firmenname: bMalum</div>
               <div class="item">Firmenbuchnr: 123456789T</div>

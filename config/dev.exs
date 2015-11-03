@@ -10,7 +10,7 @@ config :bmalum_company, BmalumCompany.Endpoint,
   http: [port: 4000],
   debug_errors: true,
   code_reloader: true,
-  cache_static_lookup: false,
+  cache_static_lookup: true,
   check_origin: false,
   watchers: [node: ["node_modules/brunch/bin/brunch", "watch", "--stdin"]]
 

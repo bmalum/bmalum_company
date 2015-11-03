@@ -72,6 +72,10 @@ form.link, form.button {
   text-align: center;
 }
 
+.bm.greentext{
+  color: rgb(152,181,50) !important;
+}
+
 .debug1{
   background-color: grey;
 }
