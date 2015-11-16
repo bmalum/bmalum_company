@@ -41,7 +41,7 @@
         <div class="item">
           <img src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
         </div>
-        <a href="#intro" offset="30" du-smooth-scroll du-scrollspy class="item">Home</a>
+        <a href="#intro" offset="70" du-smooth-scroll du-scrollspy class="item">Home</a>
         <a href="#services" offset="30" du-smooth-scroll du-scrollspy class="item">Dienstleistungen</a>
         <a href="#consulting" offset="30" du-smooth-scroll du-scrollspy class="item">Consulting</a>
         <a href="#about" offset="30" du-smooth-scroll du-scrollspy class="item">Über bmalum</a>
@@ -355,6 +355,44 @@
         </div>
       </div>
     </div>
+
+
+    <div id="modal" class="ui modal">
+  <i class="close icon"></i>
+  <div class="header">
+    Hosting
+  </div>    <div class="container">
+ 
+ <div class="ui three column grid">
+  <div class="column">
+    <h3>Professional</h3>
+    <p>orem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500, als ein unbekannter Schriftsteller eine Hand voll Wörter nahm und diese durcheinander warf um ein Musterbuch zu erstellen. Es hat nicht nur 5 Jahrhunderte überlebt, sondern auch in Spruch in die elektronische Schriftbearbeitung geschafft (bemerke, nahezu unverändert). Bekannt wurde es 1960, mit dem erscheinen von "Letraset", welches Passagen von Lorem Ipsum enhielt, so wie Desktop Software wie "Aldus PageMaker" - ebenfalls mit Lorem Ipsum.</p>   
+    oder
+  </div><div class="ui vertical  divider">
+  </div>
+
+  <div class="column">
+    <h3>Professional</h3>
+    <p>orem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500, als ein unbekannter Schriftsteller eine Hand voll Wörter nahm und diese durcheinander warf um ein Musterbuch zu erstellen. Es hat nicht nur 5 Jahrhunderte überlebt, sondern auch in Spruch in die elektronische Schriftbearbeitung geschafft (bemerke, nahezu unverändert). Bekannt wurde es 1960, mit dem erscheinen von "Letraset", welches Passagen von Lorem Ipsum enhielt, so wie Desktop Software wie "Aldus PageMaker" - ebenfalls mit Lorem Ipsum.</p>
+  </div>
+  <div class="ui vertical clearing divider">
+    oder
+  </div>
+  <div class="column">
+    <h3>Professional</h3>
+    <p>orem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500, als ein unbekannter Schriftsteller eine Hand voll Wörter nahm und diese durcheinander warf um ein Musterbuch zu erstellen. Es hat nicht nur 5 Jahrhunderte überlebt, sondern auch in Spruch in die elektronische Schriftbearbeitung geschafft (bemerke, nahezu unverändert). Bekannt wurde es 1960, mit dem erscheinen von "Letraset", welches Passagen von Lorem Ipsum enhielt, so wie Desktop Software wie "Aldus PageMaker" - ebenfalls mit Lorem Ipsum.</p>
+  </div></div>
+</div>
+  <div class="actions">
+    <div class="ui black deny button">
+      Nope
+    </div>
+    <div class="ui positive right labeled icon button">
+      Yep, that's me
+      <i class="checkmark icon"></i>
+    </div>
+  </div>
+</div>
 
   </body>
 </html>
