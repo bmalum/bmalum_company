@@ -33,206 +33,195 @@
         Friends
       </a>
     </div>
-
-
     <div class="pusher">
       <section id="intro">
-      <nav class="ui top fixed olive borderless menu animated fadeInDown">
-        <div class="item">
-          <img src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
-        </div>
-        <a href="#intro" offset="70" du-smooth-scroll du-scrollspy class="item">Home</a>
-        <a href="#services" offset="30" du-smooth-scroll du-scrollspy class="item">Dienstleistungen</a>
-        <a href="#consulting" offset="30" du-smooth-scroll du-scrollspy class="item">Consulting</a>
-        <a href="#about" offset="30" du-smooth-scroll du-scrollspy class="item">Über bmalum</a>
-        <a href="#partner" offset="30" du-smooth-scroll du-scrollspy class="item">Partner & Dienstleister</a>      
+        <nav class="ui top fixed olive borderless menu animated fadeInDown">
+          <div class="item">
+            <img src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+          </div>
+          <a href="#intro" offset="70" du-smooth-scroll du-scrollspy class="item">Home</a>
+          <a href="#services" offset="30" du-smooth-scroll du-scrollspy class="item">Dienstleistungen</a>
+          <a href="#consulting" offset="30" du-smooth-scroll du-scrollspy class="item">Consulting</a>
+          <a href="#about" offset="30" du-smooth-scroll du-scrollspy class="item">Über bmalum</a>
+          <a href="#partner" offset="30" du-smooth-scroll du-scrollspy class="item">Partner & Dienstleister</a>
         </nav>
-
-
-      <section id="top" class="padding_for_nav firstpage">
-      <div ui-view class="slide-left">
-        <img class="animated fadein zoomIn ui large image rounded centered" src="http://cdn.bmalum.com/bmalum/logos/logo_bMalum_green.png">
-      </div>
-      </section>
-
-
-      <div class="ui horizontal divider header">
+        <section id="top" class="padding_for_nav firstpage">
+          <div ui-view class="slide-left">
+            <img class="animated fadein zoomIn ui large image rounded centered" src="http://cdn.bmalum.com/bmalum/logos/logo_bMalum_green.png">
+          </div>
+        </section>
+        <div class="ui horizontal divider header">
         <i class="angle double down icon bm centered"></i></div>
-    </div>
-    <div class="stackable ui grid container">
-      <div class="twelve wide column centered padding_top_40px font_size_22px">
-        <h1 class="ui header centered">Consulting & Entwicklung</h1>
-        <p><center>Wir unterstützen und beraten Sie gerne bei der Umsetzung Ihrer IT-Ideen und helfen bei den wichtigen Entscheidungen.</center></p>
-        <p><center>Gerne übernehmen wir auch die Fachgespräche für Sie und vermitteln zwischen Kunde und Programmierer. Wir sehen uns auch gerne Ihre bestehenden Projekte an und helfen bei Performance-Engpässen oder bei Skalierungsproblemen.</center></p>
       </div>
-    </div>
-
-    <div class="ui horizontal divider header">
-      <i class="angle double down icon"></i>
-    </div>
-
-    <div class="stackable ui grid container">
-      <div class="eight wide column padding_top_40px">
-        <div class="seven wide column">
-          <div class="row">
-            <h2 class="ui header centered">Consulting not Marketing</h2>
-            <p>My Interests is not to sell you Products, we want a fair and perfect IT-Enviroment for you.</p>
-            <p>Any arbitrary decision in a component is included as a setting that developers can modify.</p>
-          </div>
-          <div class="row padding_top_50px">
-            <h2 class="ui header centered">Some more esotheric </h2>
-            <p>My Interests is not to sell you Products, we want a fair and perfect IT-Enviroment for you.</p>
-            <p>Any arbitrary decision in a component is included as a setting that developers can modify.</p>
-          </div>
+      <div class="stackable ui grid container">
+        <div class="twelve wide column centered padding_top_40px font_size_22px">
+          <h1 class="ui header centered">Consulting & Entwicklung</h1>
+          <p><center>Wir unterstützen und beraten Sie gerne bei der Umsetzung Ihrer IT-Ideen und helfen bei den wichtigen Entscheidungen.</center></p>
+          <p><center>Gerne übernehmen wir auch die Fachgespräche für Sie und vermitteln zwischen Kunde und Programmierer. Wir sehen uns auch gerne Ihre bestehenden Projekte an und helfen bei Performance-Engpässen oder bei Skalierungsproblemen.</center></p>
         </div>
       </div>
-      <div class="eight wide column">
-        <img class="ui circular medium centered image" src="http://cdn.bmalum.net/testfiles/suit_man.jpg">
+      <div class="ui horizontal divider header">
+        <i class="angle double down icon"></i>
       </div>
-    </div>
-  </section>
-
-
-    <section id="services">
-    <div class="ui horizontal divider header">
-      <i class="angle double down icon"></i>
-    </div>
-
-    <div  class="stackable ui grid container">
-      <div class="sixteen wide column padding_top_40px">
-        <div class="row">
-          <h1 class="ui header centered">Dienstleistungen</h1>
-          <h3 class="bm centered"> Eine weiterer gelogener Absatz der Firmenchefs umstimmen sollte mich zu engagieren</h3>
-          <div class="ui fluid centered cards">
-            <div class="card">
-              <div class="content">
-                <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
-                <div class="header">
-                  Consulting
-                </div>
-                <div class="meta">
-                  Details
-                </div>
-                <div class="description">
-                  Wir beraten Sie in allen IT-Angelegenheiten, damit Sie das bekommen was sie brauchen!
-                </div>
-              </div>
-              <div class="extra content">
-                <div class="ui two buttons">
-                  <div class="ui basic green button">Mehr Erfahren!</div>
-                </div>
-              </div>
+      <div class="stackable ui grid container">
+        <div class="eight wide column padding_top_40px">
+          <div class="seven wide column">
+            <div class="row">
+              <h2 class="ui header centered">Beratung statt Marketing</h2>
+              <p>Unser Interesse liegt nicht daran, neue Hardware oder Dienstleistungen zu kaufen, sondern die perfekt abgestimmte IT-Lösung für Ihr Unternehmen.</p>
+              <p>Wir vertreten Sie mit dem Grundgedanken der Informationstechnologie. Mit unsrem breites Know-How stehen wir Ihnen gerne in jeder Lage zu Verfügung, egal ob ein Auftrag von uns Abgewickelt wird, oder wir nur das überwachende und organisierende Organ sind. </p>
             </div>
-            <div class="card">
-              <div class="content">
-                <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
-                <div class="header">
-                  Hosting
-                </div>
-                <div class="meta">
-                  Details
-                </div>
-                <div class="description">
-                  Optimiertes und Professionelles Hosting für Ihre Website, e-Mails oder Applikationen.
-                </div>
-              </div>
-              <div class="extra content">
-                <div class="ui two buttons">
-                  <div class="ui basic green button">Mehr Erfahren!</div>
-                </div>
-              </div>
+            <div class="row padding_top_50px">
+              <h2 class="ui header centered">IT Security & Safety</h2>
+              <p>In den letzten Jahren veränderte sich viel, speziell in den Sicherheitskritischen Schichten der Informationstechnologie.</p>
+              <p>Wir stehen gerne Ihren Systemadministratoren bei und helfen das System wieder zu sichern und die Firmeneigenen sowie Kundendaten zu sichern und ein ausfall sicheres System zu errichten.</p>
             </div>
-            <div class="card">
-              <div class="content">
-                <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
-                <div class="header">
-                  Entwicklung
-                </div>
-                <div class="meta">
-                  Details
-                </div>
-                <div class="description">
-                  Vom Prototypen bis zum hochverfügbaren Endprodukt. In Ruby, Erlang, Elixir und vielen weiteren Sprachen.
-                </div>
-              </div>
-              <div class="extra content">
-                <div class="ui two buttons">
-                  <div class="ui basic green button">Mehr Erfahren!</div>
-                </div>
-              </div>
-            </div>
-            <div class="card">
-              <div class="content">
-                <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
-                <div class="header">
-                  Caching & Skalierung
-                </div>
-                <div class="meta">
-                  Details
-                </div>
-                <div class="description">
-                  Mit unseren Partner und unseren eigenen Conten Devlivery Netzwerk, können wir weltweite Erreichbarkeit und beindruckende Geschwindikeiten anbieten.
-                </div>
-              </div>
-              <div class="extra content">
-                <div class="ui two buttons">
-                  <div class="ui basic green button">Mehr Erfahren!</div>
-                </div>
-              </div>
-            </div>
-            <div class="card">
-              <div class="content">
-                <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
-                <div class="header">
-                  Projekt Begeleitung
-                </div>
-                <div class="meta">
-                  Details
-                </div>
-                <div class="description">
-                  Wir begleiten Sie mit unserem Know-How durch den Begriffsurwald der Informatik und stehen Ihnen zur Seite bei der Anschaffung von neuen IT Hard und Software.
-                </div>
-              </div>
-              <div class="extra content">
-                <div class="ui two buttons">
-                  <div class="ui basic green button">Mehr Erfahren!</div>
-                </div>
-              </div>
-            </div>
-            <div class="card">
-              <div class="content">
-                <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
-                <div class="header">
-                  Backup und Speicher
-                </div>
-                <div class="meta">
-                  Details
-                </div>
-                <div class="description">
-                  Durch unsere Erfahrung mit Software Defined Storage (ZFS) und hohen Datenmengen bieten wir auch Backup- und Speicherlösungen bist zu 192TB pro Server an.
-                </div>
-              </div>
-              <div class="extra content">
-                <div class="ui two buttons">
-                  <div class="ui basic green button">Mehr Erfahren!</div>
-                </div>
-              </div>
-            </div>
-          </div>
           </div>
         </div>
+        <div class="eight wide column">
+          <img class="ui circular medium centered image" src="http://cdn.bmalum.net/testfiles/suit_man.jpg">
+        </div>
       </div>
-    </div>
+      <br> <br>
     </section>
-
-<section id="consulting">
- <div class="ui horizontal divider header">
+    <section id="services" ng-controller="ModalController">
+      <div class="ui horizontal divider header">
+        <i class="angle double down icon"></i>
+      </div>
+      <div  class="stackable ui grid container">
+        <div class="sixteen wide column padding_top_40px">
+          <div class="row">
+            <h1 class="ui header centered">Dienstleistungen</h1>
+            <h3 class="bm centered">Lösungen, flexible und individuell für jeden Kunden abstimmbar.</h3>
+            <div class="ui fluid centered cards">
+              <div class="card">
+                <div class="content">
+                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <div class="header">
+                    Consulting
+                  </div>
+                  <div class="meta">
+                    Details
+                  </div>
+                  <div class="description">
+                    Wir beraten Sie in allen IT-Angelegenheiten, damit Sie das bekommen was sie brauchen!
+                  </div>
+                </div>
+                <div class="extra content">
+                  <div class="ui two buttons">
+                    <div class="ui basic green button" ng-click="consulting_modal()">Mehr Erfahren!</div>
+                  </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="content">
+                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <div class="header">
+                    Hosting
+                  </div>
+                  <div class="meta">
+                    Details
+                  </div>
+                  <div class="description">
+                    Optimiertes und Professionelles Hosting für Ihre Website, e-Mails oder Applikationen.
+                  </div>
+                </div>
+                <div class="extra content">
+                  <div class="ui two buttons">
+                    <div class="ui basic green button" ng-click="hosting_modal()">Mehr Erfahren!</div>
+                  </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="content">
+                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <div class="header">
+                    Entwicklung
+                  </div>
+                  <div class="meta">
+                    Details
+                  </div>
+                  <div class="description">
+                    Vom Prototypen bis zum hochverfügbaren Endprodukt. In Ruby, Erlang, Elixir und vielen weiteren Sprachen.
+                  </div>
+                </div>
+                <div class="extra content">
+                  <div class="ui two buttons">
+                    <div class="ui basic green button" ng-click="development_modal()">Mehr Erfahren!</div>
+                  </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="content">
+                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <div class="header">
+                    Caching & Skalierung
+                  </div>
+                  <div class="meta">
+                    Details
+                  </div>
+                  <div class="description">
+                    Mit unseren Partner und unseren eigenen Conten Devlivery Netzwerk, können wir weltweite Erreichbarkeit und beindruckende Geschwindikeiten anbieten.
+                  </div>
+                </div>
+                <div class="extra content">
+                  <div class="ui two buttons">
+                    <div class="ui basic green button" ng-click="scalability_modal()">Mehr Erfahren!</div>
+                  </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="content">
+                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <div class="header">
+                    Projekt Begeleitung
+                  </div>
+                  <div class="meta">
+                    Details
+                  </div>
+                  <div class="description">
+                    Wir begleiten Sie mit unserem Know-How durch den Begriffsurwald der Informatik und stehen Ihnen zur Seite bei der Anschaffung von neuen IT Hard und Software.
+                  </div>
+                </div>
+                <div class="extra content">
+                  <div class="ui two buttons">
+                    <div class="ui basic green button" ng-click="assistance_modal()">Mehr Erfahren!</div>
+                  </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="content">
+                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <div class="header">
+                    Backup und Speicher
+                  </div>
+                  <div class="meta">
+                    Details
+                  </div>
+                  <div class="description">
+                    Durch unsere Erfahrung mit Software Defined Storage (ZFS) und hohen Datenmengen bieten wir auch Backup- und Speicherlösungen bist zu 192TB pro Server an.
+                  </div>
+                </div>
+                <div class="extra content">
+                  <div class="ui two buttons">
+                    <div class="ui basic green button" ng-click="storage_modal()">Mehr Erfahren!</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br>
+  </section>
+  <section id="consulting">
+    <div class="ui horizontal divider header">
       <i class="angle double down icon"></i>
     </div>
-
- <div class="stackable ui grid container">
+    <div class="stackable ui grid container">
       <div class="row">
-      <div class="ten wide column padding_top_40px">
+        <div class="ten wide column padding_top_40px">
           <h1 class="ui header centered">Consulting</h1>
           <h3 class="bm centered"> Wir sprechen Ihre Sprache und verstecken nichts hinter Fach-Chinesisch</h3>
           <p class="bm centered">Informationstechnologie entwickelt immer schneller, wird vernetzter intelligenter und auch komplexer. Dir Firma immer auf den neusten Stand halten kann schwierig sein, desshalb kümmern wir uns um Ihre IT Infrasruktur und erklären Ihnen was momentan Stand der Dinge ist und ob diese auch für Ihren Einsatzzweck geeignet sind.  </p>
@@ -253,13 +242,11 @@
       </div>
     </div>
   </section>
-
-<section id="about">
-     <div class="ui horizontal divider header">
+  <section id="about">
+    <div class="ui horizontal divider header">
       <i class="angle double down icon"></i>
     </div>
-
- <div class="stackable ui grid container">
+    <div class="stackable ui grid container">
       <div class="sixteen wide column padding_top_40px">
         <div class="row">
           <h1 class="ui header centered">Über bMalum</h1>
@@ -267,132 +254,616 @@
           <p class="bm centered">Was uns immer störte waren die Hürden bei der Kommunikation zwischen Programmierern und Kunden. Auch wenn zwischen Kunde auch noch der Verkauf und Führungsmanagemant ist, um zu "übersetzten", neigen diese meist zu beschönigen. Auch oft hören wir:  "So einfach geht das aber nicht". Daher ist es für uns wichtig, eine neutrale Schicht zwischen Kunden zu bilden, Probleme zu erkennen und diese auch helfen zu beseitigen, nicht nur schön zu reden.</p>
           <h3 class="bm centered">Warum ein Tropfen als Logo?</h3>
           <p class="bm centered"> Dieser Tropfen symbolisiert einen Elixier Tropfen. Diesen habe ich gewählt, da die meiste Software in unserer Infrastruktur die tragende Aufgaben hat (außer Operating Sytsems) in Elixir geschrieben ist. Die Server hinter den CDN und auch die Webserver sind zu 90% powered by Elixir. Diese Sprache ist für Skalierung und hohe Verfügbarkeit konzipiert, man kann sogar neue Features zu laufenden Systemen hinzufügen ohne diese zu stoppen.
-          <h3 class="bm centered">bMalum & OpenSource ?</h3>
-          <p class="bm centered">Auch schon vor der Gründung von bMalum, legten wir Wert auf OpenSource. Die OpenScource Gemeinschaft ist groß und mächtig, gäbe es diese nicht, könntet ihr euch Informationsysteme und die Welt nicht mehr vorstellen. Desshalb Enwtickeln wir auch an OpenSource Projelten mit und wünschen uns auch von den Auftragsgeber diese OpenSource entwickeln zu lassen. Dies hat mehrer Vorteile, welche wir gerne weiter aufschlüsseln.</p>  
+            <h3 class="bm centered">bMalum & OpenSource ?</h3>
+            <p class="bm centered">Auch schon vor der Gründung von bMalum, legten wir Wert auf OpenSource. Die OpenScource Gemeinschaft ist groß und mächtig, gäbe es diese nicht, könntet ihr euch Informationsysteme und die Welt nicht mehr vorstellen. Desshalb Enwtickeln wir auch an OpenSource Projelten mit und wünschen uns auch von den Auftragsgeber diese OpenSource entwickeln zu lassen. Dies hat mehrer Vorteile, welche wir gerne weiter aufschlüsseln.</p>
+          </div>
         </div>
       </div>
-    </div>
-</section>
-
-<section id="partner">
-     <div class="ui horizontal divider header">
-      <i class="angle double down icon"></i>
+    </section>
+    <section id="partner">
+      <div class="ui horizontal divider header">
+        <i class="angle double down icon"></i>
+      </div>
+      <div class="ui horizontal hidden divider header">
+      </div>
+      <div class="stackable ui grid container">
+        <div class="sixteen wide column padding_top_40px">
+        <h2 class="bm centered">Partner & Dienstleister</p>
+        <div class="ui small images">
+          <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Amazon-Logo.png">
+          <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Seagate-Logo.jpg">
+          <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/DigitalOcean-Logo.png">
+          <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Scaleway-Logo.png">
+        </div>
+      </div>
     </div>
     <div class="ui horizontal hidden divider header">
     </div>
-
- <div class="stackable ui grid container">
-     <div class="sixteen wide column padding_top_40px">
-      <h2 class="bm centered">Partner & Dienstleister</p>
-      <div class="ui small images">
-        <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Amazon-Logo.png">
-        <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Seagate-Logo.jpg">
-        <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/DigitalOcean-Logo.png">
-        <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Scaleway-Logo.png">
+    <div class="ui horizontal hidden divider header">
+    </div>
+  </section>
+  <div ng-controller="FooterController" class="ui inverted vertical footer segment padding_top_40px margin_top_40px">
+    <div class="ui center aligned container">
+      <div class="ui stackable inverted grid">
+        <div class="three wide column">
+          <h4 class="ui inverted header">Dienste</h4>
+          <div class="ui inverted link list">
+            <a class="disabled item" href="https://www.transifex.com/organization/semantic-org/" target="_blank">Consulting</a>
+            <a class="disabled item" href="https://github.com/Semantic-Org/Semantic-UI/issues" target="_blank">Entwicklung</a>
+            <a class="disabled item" href="https://gitter.im/Semantic-Org/Semantic-UI" target="_blank">IT-Analyse</a>
+            <a class="disabled item" href="/cla.html" target="_blank">Translation</a>
+          </div>
+        </div>
+        <div class="three wide column">
+          <h4 class="ui inverted header">Network</h4>
+          <div class="ui inverted link list">
+            <a class="item" href="https://github.com/bmalum/" target="_blank">GitHub</a>
+            <a class="item" href="mailto:martin@bmalum.com">Kontakt</a>
+            <a class="item" href="https://stackexchange.com/users/3555847/bmalum">StackExchange</a>
+          </div>
+        </div>
+        <div class="three wide column">
+          <h4 class="ui inverted header">Referenzen</h4>
+          <div class="ui inverted link list">
+            <a href="http://edv-systeme.at" class="item">K&M EDV</a>
+            <a href="http://apl-apparatebau.com" class="item">APL-Apparatebau GmbH</a>
+            <a href="http://ingrid-partl.com" class="item">Ingrid-Partl</a>
+          </div>
+        </div>
+        <div class="three wide column">
+          <h4 class="ui inverted header">Rechtliches</h4>
+          <div class="ui inverted link list">
+            <a href="#" ng-click="agb_modal()" class="item">ABG</a>
+            <a href="#" ng-click="impressum_modal()" class="item">Impressum</a>
+            <!--a href="#" class="item">Datenschutzerklärung</a-->
+            <a href="#" ng-click="disclaimer_modal()" class="item">Disclaimer</a>
+          </div>
+        </div>
+        <div class="four wide right floated column">
+          <h4 class="ui inverted bm greentext header">Firma:</h4>
+          <div class="ui inverted list">
+            <div class="item">Firmenname: bMalum</div>
+            <div class="item">Firmenbuchnr: n.A.</div>
+            <div class="item">UID: n.A.</div>
+            <div class="item">Behörde: BH Kitzbühel</div>
+          </div>
+        </div>
+      </div>
+      <div class="ui inverted section divider"></div>
+      <img src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png" class="ui centered mini image">
+      <div class="ui horizontal inverted small divided link list">
+        <a class="item" href="http://semantic-ui.mit-license.org/" target="_blank">OpenSource <3 Company</a>
       </div>
     </div>
   </div>
-<div class="ui horizontal hidden divider header">
-    </div>
-<div class="ui horizontal hidden divider header">
-    </div>
 
-</section>
-
-
-    <div class="ui inverted vertical footer segment padding_top_40px margin_top_40px">
-      <div class="ui center aligned container">
-        <div class="ui stackable inverted grid">
-          <div class="three wide column">
-            <h4 class="ui inverted header">Dienste</h4>
-            <div class="ui inverted link list">
-              <a class="disabled item" href="https://www.transifex.com/organization/semantic-org/" target="_blank">Consulting</a>
-              <a class="disabled item" href="https://github.com/Semantic-Org/Semantic-UI/issues" target="_blank">Entwicklung</a>
-              <a class="disabled item" href="https://gitter.im/Semantic-Org/Semantic-UI" target="_blank">IT-Analyse</a>
-              <a class="disabled item" href="/cla.html" target="_blank">Translation</a>
+  <div id="hosting_modal" class="ui modal">
+    <i class="close icon"></i>
+    <div class="header bm centered">Hosting</div>
+    <div class="content">
+      <div class="ui three column celled center grid">
+        <div class="row">
+          <div class="column">
+            <h3 class="bm greentext centered">Premium</h3>
+            <div class="bm centered">Premium ist ein Bare-Metal (in Jail) Hosting. Für maximalen Speed und Freiheit.</div>
+            <div class="ui list">
+              <div class="item">
+                <i class="cube outline icon"></i>
+                <div class="content">
+                  1 Core @ 1.6Ghz ARM
+                </div>
+              </div>
+              <div class="item">
+                <i class="pie chart icon"></i>
+                <div class="content">
+                  1GB Memory
+                </div>
+              </div>
+              <div class="item">
+                <i class="disk outline icon"></i>
+                <div class="content">
+                  10 GB SSD Storage
+                </div>
+              </div>
+              <div class="item">
+                <i class="database icon"></i>
+                <div class="content">
+                  unlimited Databases
+                </div>
+              </div>
+              <div class="item">
+                <i class="marker icon"></i>
+                <div class="content">
+                  Europe (NetIX)
+                </div>
+              </div>
+              <div class="item">
+                <i class="plug icon"></i>
+                <div class="content">
+                  99% Uptime
+                </div>
+              </div>
+              <div class="item">
+                <i class="terminal icon"></i>
+                <div class="content">
+                  SSH Zugriff
+                </div>
+              </div>
             </div>
           </div>
-          <div class="three wide column">
-            <h4 class="ui inverted header">Network</h4>
-            <div class="ui inverted link list">
-              <a class="item" href="https://github.com/bmalum/" target="_blank">GitHub</a>
-              <a class="item" href="mailto:martin@bmalum.com">Kontakt</a>
-              <a class="item" href="http://legacy.semantic-ui.com">Talks</a>
+          <div class="column">
+            <h3 class="bm greentext centered">Professional</h3>
+            <div class="bm centered">Professional ist bei uns Bare-Metal Hosting. Mit mehr Speed und Support.</div>
+            <div class="ui list">
+              <div class="item">
+                <i class="cubes outline icon"></i>
+                <div class="content">
+                  2 Cores @ 1.6Ghz ARM
+                </div>
+              </div>
+              <div class="item">
+                <i class="pie chart icon"></i>
+                <div class="content">
+                  2GB Memory
+                </div>
+              </div>
+              <div class="item">
+                <i class="disk outline icon"></i>
+                <div class="content">
+                  20 GB SSD Storage
+                </div>
+              </div>
+              <div class="item">
+                <i class="database icon"></i>
+                <div class="content">
+                  unlimited Databases
+                </div>
+              </div>
+              <div class="item">
+                <i class="marker icon"></i>
+                <div class="content">
+                  Europe (NetIX)
+                </div>
+              </div>
+              <div class="item">
+                <i class="plug icon"></i>
+                <div class="content">
+                  99,9% Uptime
+                </div>
+              </div>
+              <div class="item">
+                <i class="protect icon"></i>
+                <div class="content">
+                  Active DDoS Protection
+                </div>
+              </div>
+              <div class="item">
+                <i class="sitemap icon"></i>
+                <div class="content">
+                  Reduntante Hardware
+                </div>
+              </div>
+              <div class="item">
+                <i class="terminal icon"></i>
+                <div class="content">
+                  SSH Zugriff
+                </div>
+              </div>
             </div>
           </div>
-          <div class="three wide column">
-            <h4 class="ui inverted header">Referenzen</h4>
-            <div class="ui inverted link list">
-              <a href="http://edv-systeme.at" class="item">K&M EDV</a>
-              <a href="http://apl-apparatebau.com" class="item">APL-Apparatebau GmbH</a>
-              <a href="http://ingrid-partl.com" class="item">Ingrid-Partl</a>
-              <a href="http://malermeister" class="item"></a>
-            </div>
-          </div>
-          <div class="three wide column">
-            <h4 class="ui inverted header">Rechtliches</h4>
-            <div class="ui inverted link list">
-              <a href="#" class="item">ABG</a>
-              <a href="#" class="item">Impressum</a>
-              <a href="#" class="item">Datenschutzerklärung</a>
-              <a href="#" class="item">Disclaimer</a>
-            </div>
-          </div> 
-          <div class="four wide right floated column">
-            <h4 class="ui inverted bm greentext  header">Firma:</h4>
-            <div class="ui inverted list">
-              <div class="item">Firmenname: bMalum</div>
-              <div class="item">Firmenbuchnr: 123456789T</div>
-              <div class="item">UID: AT97531</div>
-              <div class="item">Behörde: BH Kitzbühl</div>
+          <div class="column">
+            <h3 class="bm greentext centered">Enterprise</h3>
+            <div class="bm centered"> Enterprise ist bei ein Bare-Metal Server. Volle Kontrolle. Bester Schutz.</div>
+            <div class="ui list">
+              <div class="item">
+                <i class="cubes outline icon"></i>
+                <div class="content">
+                  4 Cores @ 1.6Ghz ARM
+                </div>
+              </div>
+              <div class="item">
+                <i class="pie chart icon"></i>
+                <div class="content">
+                  4GB Memory
+                </div>
+              </div>
+              <div class="item">
+                <i class="disk outline icon"></i>
+                <div class="content">
+                  50 GB SSD Storage
+                </div>
+              </div>
+              <div class="item">
+                <i class="database icon"></i>
+                <div class="content">
+                  unlimited Databases
+                </div>
+              </div>
+              <div class="item">
+                <i class="marker icon"></i>
+                <div class="content">
+                  Europe (NetIX)
+                </div>
+              </div>
+              <div class="item">
+                <i class="plug icon"></i>
+                <div class="content">
+                  Always Online &trade; ready
+                </div>
+              </div>
+              <div class="item">
+                <i class="protect icon"></i>
+                <div class="content">
+                  Active DDoS Protection
+                </div>
+              </div>
+              <div class="item">
+                <i class="cloud icon"></i>
+                <div class="content">
+                  Content Delivery Network
+                </div>
+              </div>
+              <div class="item">
+                <i class="sitemap icon"></i>
+                <div class="content">
+                  Failover
+                </div>
+              </div>
+              <div class="item">
+                <i class="terminal icon"></i>
+                <div class="content">
+                  SSH Zugriff
+                </div>
+              </div>
             </div>
           </div>
         </div>
-        <div class="ui inverted section divider"></div>
-        <img src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png" class="ui centered mini image">
-        <div class="ui horizontal inverted small divided link list">
-          <a class="item" href="http://semantic-ui.mit-license.org/" target="_blank">OpenSource <3 Company</a>
+        <div class="row">
+          <div class="column">
+            <div class="ui animated fluid fade  olive button" tabindex="0">
+              <div class="visible content">4,99€ pro Monat</div>
+              <div class="hidden content">
+                <a href="mailto:office@bmalum.com">Konkatieren Sie uns <i class="mail outline icon"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="column">
+            <div class="ui animated fluid fade olive button" tabindex="0">
+              <div class="visible content">9,99€ pro Monat</div>
+              <div class="hidden content">
+                <a href="mailto:office@bmalum.com">Konkatieren Sie uns <i class="mail outline icon"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="column">
+            <div class="ui animated fluid fade olive button" tabindex="0">
+              <div class="visible content">14,99€ pro Monat</div>
+              <div class="hidden content">
+                <a href="mailto:office@bmalum.com">Konkatieren Sie uns <i class="mail outline icon"></i></a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
 
+<div id="consulting_modal" class="ui modal">
+    <i class="close icon"></i>
+    <div class="header bm greentext centered">Consulting</div>
+    <div class="content">
+    <div class="ui two column divided grid">
+        <div class="row">
+          <div class="column">
+            <h3 class="centered">Consulting in natürlicher Sprache</h3>
+            <p>Wir begleiten und entwerfen mit Ihnen, Ihrem individuellen Prozess zur Digitalisierung und digitalen Sanierung Ihres Business.
+              Die individuelle und maßgefertige Lösungen zeichnen uns aus. Es ist uns wichtig dass Sie genau das bekommen, was Sie brauchen.
+            </p>
+            <h3 class="centerd">Was uns von anderen unterscheidet:</h3>
+            <p>  Wir haben jetzt schon verstanden, dass mehr oder stärkere Hardware nicht die Probleme der Zukunft löst. Denn in der Zukunft wird es mit Silizium keine Prozessoren mit 10Ghz oder mehr geben, sondern Prozessoren mit mehr als 64 Kernen. Das Probleme in aktuellen Projekten zu finden oder die passende Lösung für Ihre zukünftigen Projekte zu entwerfen, ist unsere Leidenschaft.</p>
+            <div class="ui large tag labels bm centered">
+              <a class="ui  olive label">
+                  0,99€ pro Einheit <font size="1"> * </font>
+              </a>
+            </div>
+          </div>
+        <div class="column">
+          <img src="http://cdn.bmalum.com/images/bmalum/var/consulting.jpg"/>
+          <font size="1">* Eine Einheit ist 1 Minute. Mindestabrechnung sind 30 Einheiten</font>
+        </div>
+      </div>
+     </div>
 
-    <div id="modal" class="ui modal">
-  <i class="close icon"></i>
-  <div class="header">
-    Hosting
-  </div>    <div class="container">
- 
- <div class="ui three column grid">
-  <div class="column">
-    <h3>Professional</h3>
-    <p>orem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500, als ein unbekannter Schriftsteller eine Hand voll Wörter nahm und diese durcheinander warf um ein Musterbuch zu erstellen. Es hat nicht nur 5 Jahrhunderte überlebt, sondern auch in Spruch in die elektronische Schriftbearbeitung geschafft (bemerke, nahezu unverändert). Bekannt wurde es 1960, mit dem erscheinen von "Letraset", welches Passagen von Lorem Ipsum enhielt, so wie Desktop Software wie "Aldus PageMaker" - ebenfalls mit Lorem Ipsum.</p>   
-    oder
-  </div><div class="ui vertical  divider">
-  </div>
+<div id="development_modal" class="ui modal">
+    <i class="close icon"></i>
+    <div class="header bm greentext centered">Entwicklung</div>
+    <div class="content">
+    <div class="ui two column divided grid">
+        <div class="row">
+          <div class="column">
+            <h3 class="centered">Prototyping</h3>
+            Wir entwickeln auf die schnelle einen funktionsfähigen Prototypen, jener genau ihr Problem löst aber noch nicht komplett Produktionsfrei ist. Dieser kann als Anhaltspunkt für andere Firmen, welche diese Software komplett umsetzt als Referenz verwendet werden. 
+            <h3 class="centered">Hochverfügbare Software</h3>
+            Software, welche wenn ein Server ausfällt mit minimaler Ausfallzeit (>5-10 Sekunden) auf einen anderen Server wechselt ohne Datenverlust. Diese Technik setzten wir ohne Virtualisierung ein (falls Softwareunterstützung), ansonten mit der Lizenzfreien KVM Technik.
+            <h3 class="centered">Verteilte und Dezentrale Software</h3>
+            Ein sehr spannendes und zukunftoriernte Technik. Eine Software auf mehreren Servern laufen zu lassen und somit Horizontal zu Skalieren ist ein extremer Gewinn für expandierenden Firmen. Es ist auch möglich die gleiche Software auf verschieder Hardware sowie an Orten. 
+            <div class="ui tag labels bm centered">
+  <a class="ui olive label">
+    Zu den Preisen
+  </a></div>
+          </div>
+          <div class="column centered">
+            <p class="bm centered">
+            <img src="http://cdn.bmalum.com/images/bmalum/var/prototype.png" width="95%"/>
+             <img src="http://cdn.bmalum.com/images/bmalum/var/mesos.png" width="75%"/><br><font size="1">Image from Apache Mesos Workload</font></p>
+        </div>
+     </div>
 
+     <div id="assistance_modal" class="ui modal">
+    <i class="close icon"></i>
+    <div class="header bm greentext centered">Projektbegleitung</div>
+    <div class="content">
+    <div class="ui two column divided grid">
+        <div class="row">
+          <div class="column">
+            <h3 class="bm centered">Wir begleiten Sie und Ihr Projekt</h3>
+            <p class="bm centered">
+            Falls Ihr Projekt sich nicht so entwickelt wie Sie sich es vorstellen, helfen wir Ihnen gerne, alles wieder ins Lot zu rücken. Auch falls es ein verständigungs Problem zwischen Programmierern und Kunden gibt, stehen wir gerne zwischen dernen Experten und setzten ihre Bedürfnisse ins Rampenlicht berichten gerne in einer natürlichen und verständlichen Sprache Ihnen wie der Stand der Dinge ist.  <p>
+            <p>
+              Wir sehen uns gerne kostenlos Ihr Projekt an und können wenn Sie wollen, die Projektleitung übernehmen, das Projekt auf Schritt und Tritt überwachen, oder nur bei den Meetings anwesend sein und übersetzen und mit unserer Expertiese and Ihrer Seite bereitzustehen. 
+              <div class="ui tag labels bm centered">
+  <a class="ui olive label">
+    Zu den Preisen
+  </a></div></div>
   <div class="column">
-    <h3>Professional</h3>
-    <p>orem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500, als ein unbekannter Schriftsteller eine Hand voll Wörter nahm und diese durcheinander warf um ein Musterbuch zu erstellen. Es hat nicht nur 5 Jahrhunderte überlebt, sondern auch in Spruch in die elektronische Schriftbearbeitung geschafft (bemerke, nahezu unverändert). Bekannt wurde es 1960, mit dem erscheinen von "Letraset", welches Passagen von Lorem Ipsum enhielt, so wie Desktop Software wie "Aldus PageMaker" - ebenfalls mit Lorem Ipsum.</p>
-  </div>
-  <div class="ui vertical clearing divider">
-    oder
-  </div>
-  <div class="column">
-    <h3>Professional</h3>
-    <p>orem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500, als ein unbekannter Schriftsteller eine Hand voll Wörter nahm und diese durcheinander warf um ein Musterbuch zu erstellen. Es hat nicht nur 5 Jahrhunderte überlebt, sondern auch in Spruch in die elektronische Schriftbearbeitung geschafft (bemerke, nahezu unverändert). Bekannt wurde es 1960, mit dem erscheinen von "Letraset", welches Passagen von Lorem Ipsum enhielt, so wie Desktop Software wie "Aldus PageMaker" - ebenfalls mit Lorem Ipsum.</p>
-  </div></div>
-</div>
-  <div class="actions">
-    <div class="ui black deny button">
-      Nope
+    <img src="http://cdn.bmalum.com/images/bmalum/var/projekt.png"/>
+        </div>
+      </div>
+     </div>
+
+
+        <div id="impressum_modal" class="ui modal">
+    <i class="close icon"></i>
+    <div class="header bm greentext centered">Impressum</div>
+    <div class="content">
+    <div class="ui two column divided grid bm centered">
+bMalum<br>
+Martin Karrer<br>
+<br>
+Zillfeldweg 2<br>
+6361<br>
+Kelchsau<br>
+Austria<br>
+<br>
++436646502673<br>
++436646502673<br>
+office@bmalum.com<br>
+<br>
+Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik<br>
+WKO<br>
+Freies Gewerbe <br>
+Bezirkshauptmannschaft Kitzbühel<br>
+Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik<br>
+Österreich<br>
+     </div>
+
+             <div id="disclaimer_modal" class="ui modal">
+    <i class="close icon"></i>
+    <div class="header bm greentext centered">Disclaimer – rechtliche Hinweise</div>
+    <div class="content">
+    <div class="ui two column divided grid bm centered">
+<strong>1. Haftungsbeschränkung</strong>
+Die Inhalte des Internetauftritts wurden mit größtmöglicher Sorgfalt und nach bestem Gewissen erstellt. Dennoch übernimmt der Anbieter dieser Webseite keine Gewähr für die Aktualität, Vollständigkeit und Richtigkeit der bereitgestellten Seiten und Inhalte.</p>
+<p>Als Diensteanbieter ist der Anbieter dieser Webseite gemäß § 7 Abs. 1 TMG für eigene Inhalte und bereitgestellte Informationen auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich; nach den §§ 8 bis 10 TMG jedoch nicht verpflichtet, die übermittelten oder gespeicherten fremden Informationen zu überwachen. Eine Entfernung oder Sperrung dieser Inhalte erfolgt umgehend ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung. Eine Haftung ist erst ab dem Zeitpunkt der Kenntniserlangung möglich.<br /></p>
+<p><strong>2. Externe Links</strong><br />
+Die Webseite enthält sog. „externe Links“ (Verlinkungen) zu anderen Webseiten, auf deren Inhalt der Anbieter der Webseite keinen Einfluss hat. Aus diesem Grund kann der Anbieter für diese Inhalte auch keine Gewähr übernehmen.<br />
+Für die Inhalte und Richtigkeit der bereitgestellten Informationen ist der jeweilige Anbieter der verlinkten Webseite verantwortlich. Zum Zeitpunkt der Verlinkung waren keine Rechtsverstöße erkennbar. Bei Bekanntwerden einer solchen Rechtsverletzung wird der Link umgehend entfernen.<br /> </p>
+<p><strong>3. Urheberrecht/Leistungsschutzrecht</strong><br />
+Die auf dieser Webseite veröffentlichten Inhalte, Werke und bereitgestellten Informationen unterliegen dem deutschen Urheberrecht und Leistungsschutzrecht. Jede Art der Vervielfältigung, Bearbeitung, Verbreitung, Einspeicherung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedarf der vorherigen schriftlichen Zustimmung des jeweiligen Rechteinhabers. Das unerlaubte Kopieren/Speichern der bereitgestellten Informationen auf diesen Webseiten ist nicht gestattet und strafbar.<br /> </p>
+<p><strong>4. Datenschutz</strong><br />
+Durch den Besuch des Internetauftritts können Informationen (Datum, Uhrzeit, aufgerufene Seite) über den Zugriff auf dem Server gespeichert werden. Es werden keine personenbezogenenen (z. B. Name, Anschrift oder E-Mail-Adresse) Daten, gespeichert.</p>
+<p>Sofern personenbezogene Daten erhoben werden, erfolgt dies, sofern möglich, nur mit dem vorherigen Einverständnis des Nutzers der Webseite. Eine Weitergabe der Daten an Dritte findet ohne ausdrückliche Zustimmung des Nutzers nicht statt.</p>
+<p>Der Anbieter weist darauf hin, dass die Übertragung von Daten im Internet (z. B. per E-Mail) Sicherheitslücken aufweisen und ein lückenloser Schutz der Daten vor dem Zugriff Dritter nicht gewährleistet werden kann. Der Anbieter übernimmt keine Haftung für die durch solche Sicherheitslücken entstandenen Schäden. </p>
+<p>Der Verwendung der Kontaktdaten durch Dritte zur gewerblichen Nutzung wird ausdrücklich widersprochen. Es sei denn, der Anbieter hat zuvor seine schriftliche Einwilligung erteilt.<br />
+Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zusendung von Werbeinformationen, z. B. durch Spam-Mails, vor.<br />
+<strong>Quelle</strong>: <a href="http://www.mustervorlage.net/homepage-kostenlos">Disclaimer und Websites erstellen</a>
+     </div>
+
+      <div id="agb_modal" class="ui modal">
+    <i class="close icon"></i>
+    <div class="header bm greentext centered">Allgemeine Geschäftsbedingungen</div>
+    <div class="content">
+    <div class="ui two column divided grid bm centered">
+<img class="ui centered image small" src="http://cdn.bmalum.com/images/bmalum/var/coming_soon.png"></img>
     </div>
-    <div class="ui positive right labeled icon button">
-      Yep, that's me
-      <i class="checkmark icon"></i>
+     <div id="storage_modal" class="ui modal">
+    <i class="close icon"></i>
+    <div class="header bm greentext centered">Backup & Storage</div>
+    <div class="content">
+    <div class="ui two column divided grid">
+        <div class="row">
+          <div class="column">
+            <h3 class="bm centered">Backup Lösungen</h3>
+           <p class="bm centered">  Gehen Sie auf Nummer Sicher. Wir helfen ihnen bei der perfekten Backup Lösung. Egal ob Hot Backups oder Offsite Backups - wir evaluieren und finden die beste Lösung für Sie.</p>
+          <h3>In-House Backup:</h3>
+          Die Daten sind immer unter Ihrem Dach.
+          <div class="ui list">
+  <div class="item">
+    <i class="plus icon"></i>
+    <div class="content">
+      Schnelle Backupbandbreite
+    </div>
+  </div>
+  <div class="item">
+    <i class="plus icon"></i>
+    <div class="content">
+      Immer im Besitz der Daten
+    </div>
+  </div>
+   <div class="item">
+    <i class="plus icon"></i>
+    <div class="content">
+      Schneller Restore
+    </div>
+  </div>
+  <div class="item">
+    <i class="minus icon"></i>
+    <div class="content">
+      Nicht Lokalitätsunabhängig
+    </div>
+  </div>
+  <div class="item">
+    <i class="minus icon"></i>
+    <div class="content">
+      Selbsfinanzierung der Hardware
     </div>
   </div>
 </div>
+<h3>bCloud Backup:</h3>
+Übertragen Sie die Daten verschlüsselt zu einem sicheren Speicherpool von uns.
+ <div class="ui list">
+  <div class="item">
+    <i class="plus icon"></i>
+    <div class="content">
+      Sicherer Speicherort
+    </div>
+  </div>
+  <div class="item">
+    <i class="plus icon"></i>
+    <div class="content">
+      RescueBackup per HDD 
+    </div>
+  </div>
+  <div class="item">
+    <i class="plus icon"></i>
+    <div class="content">
+      Snapshots und Redundanz 
+    </div>
+  </div>
+  <div class="item">
+    <i class="plus icon"></i>
+    <div class="content">
+      Inkrementelles Backup dank Block Exchange Protokoll
+    </div>
+  </div>
+  <div class="item">
+    <i class="minus icon"></i>
+    <div class="content">
+      Backupbandbreite = Internet Uplink 
+    </div>
+  </div>
+</div>
+<img class="ui centered image small" src="http://cdn.bmalum.com/images/bmalum/var/coming_soon.png"></img>
+        </div>
+           <div class="column">
+            <h3 class="bm centered"> Speicherlösungen</h3>
+           <p class="bm centered"> Zu wenig Speicher auf Ihrem Webserver? Wollen Sie ein Business to Business Portal und bentötigen mehr "Cloud Speicher"? Hier ist die Lösung: </p>
+<h3>bS3 Storage:</h3>
+Ein Amazon S3 kompatibler Storage mit SSD Cache und Copy on Write Snapshots via ZFS. 
+ <div class="ui list">
+  <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      Amazon S3 Compatible Schnittstelle
+    </div>
+  </div>
+  <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      von 50GB bis 100TB je nach Wunsch 
+    </div>
+  </div>
+  <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      15 Minten Snapshot Intervall 
+    </div>
+  </div>
+    <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      99,9% Uptime
+    </div>
+  </div>
+    <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      Direkt in das CDN Integrierbar
+    </div>
+  </div>
+          </div>
 
-  </body>
+
+<h3>bObject Storage:</h3>
+Ein Object Daten Speicher: 
+ <div class="ui list">
+  <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      ArangoDB als DB-Engine
+    </div>
+  </div>
+  <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      JSON Rest Interface
+    </div>
+  </div>
+  <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      Simple Key-Value Storage 
+    </div>
+  </div>
+  <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      Redundantes Cluster 
+    </div>
+  </div>
+    <div class="item">
+    <i class="map marker icon"></i>
+    <div class="content">
+      99,9% Uptime
+    </div>
+  </div>
+  <img class="ui centered image small" src="http://cdn.bmalum.com/images/bmalum/var/coming_soon.png"></img>
+
+              </div>
+
+        </div>
+     </div>
+
+     <div id="scalability_modal" class="ui modal">
+    <i class="close icon"></i>
+    <div class="header bm greentext centered">Chaching und Skalierung</div>
+    <div class="content">
+    <div class="ui two column divided grid">
+        <div class="row">
+          <div class="column">
+            <h3 class="centered">Wir bringen ihre Application überall hin. </h3>
+             <p> Zugriffszeiten, als ob der Server nebenan wäre. Caching ist eine sehr komplexe Thematik, daher würden wir Sie bitten, direkt an uns zu wenden. Gerne können Sie auch zu diesem Thema eine kostenlose Beratungsstunde in anspruch nehmen. </p>
+          </div>
+          <div class="column">
+            <h3 class="centered"> Wachsen Sie horizontal mit ihrer Applikation. </h3>
+            </p>  Unsere Apps sind dank der Programmiersprachen und der sorgfältigen Programmierung realtiv einfach zu saklieren. Meist handelt es sich um Fremdsoftware, welche nicht so schnell wachsen kann. Auch in diesem Fall würde ich Sie bitten, einen Termin und ein Beratungsgespräch mit uns zu vereinbaren.</p>
+          </div>
+        </div>
+        <div class="row centered">
+          <div class="ui vertical animated button" tabindex="0">
+  <div class="hidden content"><a href="mailto:office@bmalum.com">e-Mail <i class="mail outline icon"></i></a></div>
+  <div class="visible content">
+     Kontaktieren Sie uns
+  </div>
+</div>
+        </div>
+        <div class="row">
+          <div class="ui container">
+          <img class="animated fadein zoomIn ui large image centered" src="http://cdn.bmalum.com/images/bmalum/var/scale-out.png">
+        </div>
+        </div>
+     </div>
+
+
+  </div>
+</body>
 </html>
