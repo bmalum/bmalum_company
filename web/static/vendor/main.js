@@ -1,4 +1,4 @@
-var bmalumCompany = angular.module('bmalumCompany', ['ngAnimate', 'ui.router', 'duScroll']);
+var bmalumCompany = angular.module('bmalumCompany', ['ui.router', 'duScroll']);
 
 bmalumCompany.controller('ScrollController', function($scope){
 	  var intro = angular.element(document.getElementById('intro'));
