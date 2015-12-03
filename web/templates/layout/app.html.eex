@@ -9,12 +9,12 @@
     <script src="https://cdn.bmalum.com/jquery/2.1.4/jquery.js"></script>
     <script src="https://cdn.bmalum.com/semantic-ui/2.1/semantic.js"></script>
     <script src="https://cdn.bmalum.com/angularjs/1.4.7/angular.js"></script>
-    <script src="http://cdn.bmalum.net/angularjs/1.4.7/angular-animate.js"></script>
-    <script src="http://cdn.bmalum.com/angular-ui/0.2.15/angular-ui-router.js"></script>
-    <script src="http://cdn.bmalum.net/angular-scroll/angular-scroll.js"></script>
+    <script src="https://cdn.bmalum.net/angularjs/1.4.7/angular-animate.js"></script>
+    <script src="https://cdn.bmalum.com/angular-ui/0.2.15/angular-ui-router.js"></script>
+    <script src="https://cdn.bmalum.net/angular-scroll/angular-scroll.js"></script>
     <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
     <link rel="stylesheet" href="https://cdn.bmalum.com/semantic-ui/2.1/semantic.css">
-    <link rel="stylesheet" href="http://cdn.bmalum.com/animate-css/animate.css">
+    <link rel="stylesheet" href="https://cdn.bmalum.com/animate-css/animate.css">
     <title>bMalum!</title>
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
   </head>
@@ -37,7 +37,7 @@
       <section id="intro">
         <nav class="ui top fixed olive borderless menu animated fadeInDown">
           <div class="item">
-            <img src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+            <img src="https://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
           </div>
           <a href="#intro" offset="70" du-smooth-scroll du-scrollspy class="item">Home</a>
           <a href="#services" offset="30" du-smooth-scroll du-scrollspy class="item">Dienstleistungen</a>
@@ -47,7 +47,7 @@
         </nav>
         <section id="top" class="padding_for_nav firstpage">
           <div ui-view class="slide-left">
-            <img class="animated fadein zoomIn ui large image rounded centered" src="http://cdn.bmalum.com/bmalum/logos/logo_bMalum_green.png">
+            <img class="animated fadein zoomIn ui large image rounded centered" src="https://cdn.bmalum.com/bmalum/logos/logo_bMalum_green.png">
           </div>
         </section>
         <div class="ui horizontal divider header">
@@ -79,7 +79,7 @@
           </div>
         </div>
         <div class="eight wide column">
-          <img class="ui circular medium centered image" src="http://cdn.bmalum.net/testfiles/suit_man.jpg">
+          <img class="ui circular medium centered image" src="https://cdn.bmalum.net/testfiles/suit_man.jpg">
         </div>
       </div>
       <br> <br>
@@ -96,7 +96,7 @@
             <div class="ui fluid centered cards">
               <div class="card">
                 <div class="content">
-                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <img class="right floated mini ui image" src="https://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
                   <div class="header">
                     Consulting
                   </div>
@@ -115,7 +115,7 @@
               </div>
               <div class="card">
                 <div class="content">
-                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <img class="right floated mini ui image" src="https://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
                   <div class="header">
                     Hosting
                   </div>
@@ -134,7 +134,7 @@
               </div>
               <div class="card">
                 <div class="content">
-                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <img class="right floated mini ui image" src="https://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
                   <div class="header">
                     Entwicklung
                   </div>
@@ -153,7 +153,7 @@
               </div>
               <div class="card">
                 <div class="content">
-                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <img class="right floated mini ui image" src="https://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
                   <div class="header">
                     Caching & Skalierung
                   </div>
@@ -172,7 +172,7 @@
               </div>
               <div class="card">
                 <div class="content">
-                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <img class="right floated mini ui image" src="https://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
                   <div class="header">
                     Projekt Begeleitung
                   </div>
@@ -191,7 +191,7 @@
               </div>
               <div class="card">
                 <div class="content">
-                  <img class="right floated mini ui image" src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
+                  <img class="right floated mini ui image" src="https://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
                   <div class="header">
                     Backup und Speicher
                   </div>
@@ -227,12 +227,12 @@
           <p class="bm centered">Informationstechnologie entwickelt immer schneller, wird vernetzter intelligenter und auch komplexer. Dir Firma immer auf den neusten Stand halten kann schwierig sein, desshalb kümmern wir uns um Ihre IT Infrasruktur und erklären Ihnen was momentan Stand der Dinge ist und ob diese auch für Ihren Einsatzzweck geeignet sind.  </p>
         </div>
         <div class="six wide column">
-          <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/plant-color.jpg">
+          <img class="ui image" src="https://cdn.bmalum.net/images/bmalum/var/plant-color.jpg">
         </div>
       </div>
       <div class="row">
         <div class="six wide column">
-          <img class="ui rounded image" src="http://cdn.bmalum.net/images/bmalum/var/hosting.png">
+          <img class="ui rounded image" src="https://cdn.bmalum.net/images/bmalum/var/hosting.png">
         </div>
         <div class="ten wide column padding_top_40px">
           <h1 class="ui header centered">Dienste</h1>
@@ -270,10 +270,10 @@
         <div class="sixteen wide column padding_top_40px">
         <h2 class="bm centered">Partner & Dienstleister</p>
         <div class="ui small images">
-          <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Amazon-Logo.png">
-          <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Seagate-Logo.jpg">
-          <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/DigitalOcean-Logo.png">
-          <img class="ui image" src="http://cdn.bmalum.net/images/bmalum/var/Scaleway-Logo.png">
+          <img class="ui image" src="https://cdn.bmalum.net/images/bmalum/var/Amazon-Logo.png">
+          <img class="ui image" src="https://cdn.bmalum.net/images/bmalum/var/Seagate-Logo.jpg">
+          <img class="ui image" src="https://cdn.bmalum.net/images/bmalum/var/DigitalOcean-Logo.png">
+          <img class="ui image" src="https://cdn.bmalum.net/images/bmalum/var/Scaleway-Logo.png">
         </div>
       </div>
     </div>
@@ -305,9 +305,9 @@
         <div class="three wide column">
           <h4 class="ui inverted header">Referenzen</h4>
           <div class="ui inverted link list">
-            <a href="http://edv-systeme.at" class="item">K&M EDV</a>
-            <a href="http://apl-apparatebau.com" class="item">APL-Apparatebau GmbH</a>
-            <a href="http://ingrid-partl.com" class="item">Ingrid-Partl</a>
+            <a href="https://edv-systeme.at" class="item">K&M EDV</a>
+            <a href="https://apl-apparatebau.com" class="item">APL-Apparatebau GmbH</a>
+            <a href="https://ingrid-partl.com" class="item">Ingrid-Partl</a>
           </div>
         </div>
         <div class="three wide column">
@@ -330,9 +330,9 @@
         </div>
       </div>
       <div class="ui inverted section divider"></div>
-      <img src="http://cdn.bmalum.com/bmalum/logos/logo_b_green.png" class="ui centered mini image">
+      <img src="https://cdn.bmalum.com/bmalum/logos/logo_b_green.png" class="ui centered mini image">
       <div class="ui horizontal inverted small divided link list">
-        <a class="item" href="http://semantic-ui.mit-license.org/" target="_blank">OpenSource <3 Company</a>
+        <a class="item" href="https://semantic-ui.mit-license.org/" target="_blank">OpenSource <3 Company</a>
       </div>
     </div>
   </div>
@@ -567,7 +567,7 @@
             </div>
           </div>
         <div class="column">
-          <img src="http://cdn.bmalum.com/images/bmalum/var/consulting.jpg"/>
+          <img src="https://cdn.bmalum.com/images/bmalum/var/consulting.jpg"/>
           <font size="1">* Eine Einheit ist 1 Minute. Mindestabrechnung sind 30 Einheiten</font>
         </div>
       </div>
@@ -593,8 +593,8 @@
           </div>
           <div class="column centered">
             <p class="bm centered">
-            <img src="http://cdn.bmalum.com/images/bmalum/var/prototype.png" width="95%"/>
-             <img src="http://cdn.bmalum.com/images/bmalum/var/mesos.png" width="75%"/><br><font size="1">Image from Apache Mesos Workload</font></p>
+            <img src="https://cdn.bmalum.com/images/bmalum/var/prototype.png" width="95%"/>
+             <img src="https://cdn.bmalum.com/images/bmalum/var/mesos.png" width="75%"/><br><font size="1">Image from Apache Mesos Workload</font></p>
         </div>
      </div>
 
@@ -615,7 +615,7 @@
     Zu den Preisen
   </a></div></div>
   <div class="column">
-    <img src="http://cdn.bmalum.com/images/bmalum/var/projekt.png"/>
+    <img src="https://cdn.bmalum.com/images/bmalum/var/projekt.png"/>
         </div>
       </div>
      </div>
@@ -665,7 +665,7 @@ Durch den Besuch des Internetauftritts können Informationen (Datum, Uhrzeit, au
 <p>Der Anbieter weist darauf hin, dass die Übertragung von Daten im Internet (z. B. per E-Mail) Sicherheitslücken aufweisen und ein lückenloser Schutz der Daten vor dem Zugriff Dritter nicht gewährleistet werden kann. Der Anbieter übernimmt keine Haftung für die durch solche Sicherheitslücken entstandenen Schäden. </p>
 <p>Der Verwendung der Kontaktdaten durch Dritte zur gewerblichen Nutzung wird ausdrücklich widersprochen. Es sei denn, der Anbieter hat zuvor seine schriftliche Einwilligung erteilt.<br />
 Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zusendung von Werbeinformationen, z. B. durch Spam-Mails, vor.<br />
-<strong>Quelle</strong>: <a href="http://www.mustervorlage.net/homepage-kostenlos">Disclaimer und Websites erstellen</a>
+<strong>Quelle</strong>: <a href="https://www.mustervorlage.net/homepage-kostenlos">Disclaimer und Websites erstellen</a>
      </div>
 
       <div id="agb_modal" class="ui modal">
@@ -673,7 +673,7 @@ Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zus
     <div class="header bm greentext centered">Allgemeine Geschäftsbedingungen</div>
     <div class="content">
     <div class="ui two column divided grid bm centered">
-<img class="ui centered image small" src="http://cdn.bmalum.com/images/bmalum/var/coming_soon.png"></img>
+<img class="ui centered image small" src="https://cdn.bmalum.com/images/bmalum/var/coming_soon.png"></img>
     </div>
      <div id="storage_modal" class="ui modal">
     <i class="close icon"></i>
@@ -752,7 +752,7 @@ Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zus
     </div>
   </div>
 </div>
-<img class="ui centered image small" src="http://cdn.bmalum.com/images/bmalum/var/coming_soon.png"></img>
+<img class="ui centered image small" src="https://cdn.bmalum.com/images/bmalum/var/coming_soon.png"></img>
         </div>
            <div class="column">
             <h3 class="bm centered"> Speicherlösungen</h3>
@@ -826,7 +826,7 @@ Ein Object Daten Speicher:
       99,9% Uptime
     </div>
   </div>
-  <img class="ui centered image small" src="http://cdn.bmalum.com/images/bmalum/var/coming_soon.png"></img>
+  <img class="ui centered image small" src="https://cdn.bmalum.com/images/bmalum/var/coming_soon.png"></img>
 
               </div>
 
@@ -858,7 +858,7 @@ Ein Object Daten Speicher:
         </div>
         <div class="row">
           <div class="ui container">
-          <img class="animated fadein zoomIn ui large image centered" src="http://cdn.bmalum.com/images/bmalum/var/scale-out.png">
+          <img class="animated fadein zoomIn ui large image centered" src="https://cdn.bmalum.com/images/bmalum/var/scale-out.png">
         </div>
         </div>
      </div>
