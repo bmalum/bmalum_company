@@ -345,7 +345,7 @@
         <div class="row">
           <div class="column">
             <h3 class="bm greentext centered">Premium</h3>
-            <div class="bm centered">Premium ist ein Bare-Metal (in Jail) Hosting. Für maximalen Speed und Freiheit.</div>
+            <div class="bm centered">Premium ist ein Bare-Metal (in Jail) Hosting für mehr Speed und persönliche Freiheit.</div>
             <div class="ui list">
               <div class="item">
                 <i class="cube outline icon"></i>
@@ -393,7 +393,7 @@
           </div>
           <div class="column">
             <h3 class="bm greentext centered">Professional</h3>
-            <div class="bm centered">Professional ist bei uns Bare-Metal Hosting. Mit mehr Speed und Support.</div>
+            <div class="bm centered">Professional ist bei uns Bare-Metal Hosting mit maximalem Speed und Support.</div>
             <div class="ui list">
               <div class="item">
                 <i class="cubes outline icon"></i>
@@ -453,7 +453,7 @@
           </div>
           <div class="column">
             <h3 class="bm greentext centered">Enterprise</h3>
-            <div class="bm centered"> Enterprise ist bei ein Bare-Metal Server. Volle Kontrolle. Bester Schutz.</div>
+            <div class="bm centered"> Enterprise ist ein kompletter Bare-Metal Server. Volle Kontrolle, unlimitierte Freiheit und bester Schutz.</div>
             <div class="ui list">
               <div class="item">
                 <i class="cubes outline icon"></i>
@@ -555,11 +555,11 @@
         <div class="row">
           <div class="column">
             <h3 class="centered">Consulting in natürlicher Sprache</h3>
-            <p>Wir begleiten und entwerfen mit Ihnen, Ihrem individuellen Prozess zur Digitalisierung und digitalen Sanierung Ihres Business.
-              Die individuelle und maßgefertige Lösungen zeichnen uns aus. Es ist uns wichtig dass Sie genau das bekommen, was Sie brauchen.
+            <p>Wir begleiten und entwerfen mit Ihnen Ihren individuellen Prozess zur Digitalisierung und digitalen Sanierung Ihres Business.
+              Individuelle und maßgefertige Lösungen zeichnen uns aus. Es ist uns wichtig dass Sie genau das bekommen, was Sie benötigen.
             </p>
             <h3 class="centerd">Was uns von anderen unterscheidet:</h3>
-            <p>  Wir haben jetzt schon verstanden, dass mehr oder stärkere Hardware nicht die Probleme der Zukunft löst. Denn in der Zukunft wird es mit Silizium keine Prozessoren mit 10Ghz oder mehr geben, sondern Prozessoren mit mehr als 64 Kernen. Die Probleme in aktuellen Projekten zu finden oder die passende Lösung für Ihre zukünftigen Projekte zu entwerfen, ist unsere Leidenschaft.</p>
+            <p>  Wir haben jetzt schon verstanden, dass der Einsatz von mehr oder stärkerer Hardware nicht zukünftige Probleme löst. In Zukunft wird es keine Prozessoren mit 10Ghz pro Kern oder mehr geben, sondern die Anzahl der Prozessorkerne wird rapide steigen. Die Probleme in Ihrer aktuellen Infrastruktur zu finden, oder die passende Lösung für Ihre zukünftigen Projekte zu entwerfen, dem sehen wir mit Freuden entgegen.</p>
             <div class="ui large tag labels bm centered">
               <a class="ui  olive label">
                   0,99€ pro Einheit <font size="1"> * </font>
@@ -581,11 +581,11 @@
         <div class="row">
           <div class="column">
             <h3 class="centered">Prototyping</h3>
-            Wir entwickeln für Sie einen funktionsfähigen Prototypen, jener genau ihr Problem löst, jedoch noch nicht komplett Produktionsfrei ist. Dieser kann als Anhaltspunkt für andere Firmen, welche diese Software komplett umsetzt als Referenz verwendet werden. 
+            Wir entwickeln für Sie einen funktionsfähigen Prototypen, welcher genau Ihr Problem löst, jedoch noch nicht komplett produktionsreif ist. Dieser Prototyp kann als Anhaltspunkt für andere Firmen, welche die entsprechenede Software komplett umsetzen, als Referenz verwendet werden. 
             <h3 class="centered">Hochverfügbare Software</h3>
-            Software, welche wenn ein Server ausfällt mit minimaler Ausfallzeit (< 5-10 Sekunden) auf einen anderen Server wechselt ohne Datenverlust. Diese Technik setzten wir ohne Virtualisierung ein (falls Softwareunterstützung vorhanden), ansonten kommt die Lizenzfreien KVM Technik zum Einsatz.
+            Software welche, wenn ein Server ausfällt, mit minimaler Ausfallzeit (< 5-10 Sekunden) auf einen anderen Server wechselt, ohne Datenverlust. Diese Technik können wir mit Elixir ohne Virtualisierung einsetzen. Bei schon bestehen Applikationen verwenden wir die lizenzfreie KVM Technik.
             <h3 class="centered">Verteilte und Dezentrale Software</h3>
-            Eine sehr spannende und zukunftoriernte Technik. Eine Software auf mehreren Servern laufen zu lassen und somit Horizontal zu skalieren ist ein extremer Gewinn für expandierenden Firmen. Es ist auch möglich die gleiche Software auf verschieder Hardware sowie an Orten. 
+            Verteilte und dezentrale Software ist eine sehr spannende und zukunftsoriernte Technik. Eine Software auf mehreren Servern laufen zu lassen und somit horizontal skalieren zu können, ist ein großer Vorteil für expandierenden Firmen. Es ist auch möglich, die gleiche Software auf verschieder Hardware sowie unterschiedlichen Orten zu betreiben. 
             <div class="ui tag labels bm centered">
   <a class="ui olive label">
     Zu den Preisen
@@ -607,9 +607,11 @@
           <div class="column">
             <h3 class="bm centered">Wir begleiten Sie und Ihr Projekt</h3>
             <p class="bm centered">
-            Falls sich Ihr Projekt nicht so entwickelt wie Sie es sich vorstellen, helfen wir Ihnen gerne, alles wieder ins Lot zu rücken. Auch wenn es ein verständigungs Problem zwischen Programmierern und Kunden gibt, stehen wir gerne zwischen dernen Experten und setzten ihre Bedürfnisse ins Rampenlicht berichten gerne in einer natürlichen und verständlichen Sprache, wie der Stand der Dinge ist.  <p>
+            Falls sich Ihr Projekt nicht so entwickelt wie erhofft, helfen wir Ihnen gerne, alles wieder ins Lot zu bringen. Besonders wenn es sich um ein Verständigungsproblem zwischen Programmierern und Kunden handelt, stehen wir zwischen den Fronten und stellen Ihre Bedürfnisse in den Mittelpunkt.
+            Wir erläutern Ihnen in einer unkomplizierten und verständlichen Sprache, was der Stand der Dinge ist.  <p>
             <p>
-              Wir sehen uns gerne kostenlos Ihr Projekt an und können falls gewünscht, die Projektleitung übernehmen, das Projekt auf Schritt und Tritt überwachen, oder nur bei den Meetings anwesend sein, übersetzen und mit unserer Expertiese beratend and Ihrer Seite beistehen. 
+              Wir sehen uns gerne kostenlos Ihr Projekt an. Falls gewünscht übernehmen wir die Projektleitung, überwachen den Projektverlauf oder sind nur bei wichtigen Meetings anwesend.
+              Wir stehen gerne bei Schritt und Tritt an Ihrer Seite und klären mit unserer Expertise jegliche Missverständnisse auf. 
               <div class="ui tag labels bm centered">
   <a class="ui olive label">
     Zu den Preisen
@@ -682,15 +684,15 @@ Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zus
     <div class="ui two column divided grid">
         <div class="row">
           <div class="column">
-            <h3 class="bm centered">Backup Lösungen</h3>
-           <p class="bm centered">  Gehen Sie auf Nummer Sicher. Wir helfen ihnen bei der perfekten Backup Lösung. Egal ob Hot Backups oder Offsite Backups - wir evaluieren und finden die beste Lösung für Sie.</p>
+            <h3 class="bm centered">Backup-Lösungen</h3>
+           <p class="bm centered">  Gehen Sie auf "Nummer sicher". Wir helfen Ihnen, eine auf Sie maßgeschneiderte Backup-Lösung zu finden. Egal ob Hot Backups oder Offsite Backups - wir evaluieren alle Möglichkeiten und finden das Richtige für Sie.</p>
           <h3>In-House Backup:</h3>
           Die Daten sind immer unter Ihrem Dach.
           <div class="ui list">
   <div class="item">
     <i class="plus icon"></i>
     <div class="content">
-      Schnelle Backupbandbreite
+      Schnelle Backup-Bandbreite
     </div>
   </div>
   <div class="item">
@@ -708,7 +710,7 @@ Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zus
   <div class="item">
     <i class="minus icon"></i>
     <div class="content">
-      Nicht Lokalitätsunabhängig
+      Lokalitätsabhängig
     </div>
   </div>
   <div class="item">
@@ -719,7 +721,7 @@ Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zus
   </div>
 </div>
 <h3>bCloud Backup:</h3>
-Übertragen Sie die Daten verschlüsselt zu einem sicheren Speicherpool von uns.
+Übertragen Sie die verschlüsselten Daten an einen unserer sicheren Speicherpools.
  <div class="ui list">
   <div class="item">
     <i class="plus icon"></i>
@@ -730,7 +732,7 @@ Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zus
   <div class="item">
     <i class="plus icon"></i>
     <div class="content">
-      RescueBackup per HDD 
+      Rescue-Backup per HDD 
     </div>
   </div>
   <div class="item">
@@ -742,13 +744,13 @@ Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zus
   <div class="item">
     <i class="plus icon"></i>
     <div class="content">
-      Inkrementelles Backup dank Block Exchange Protokoll
+      Inkrementelles Backup dank Block-Exchange-Protokoll
     </div>
   </div>
   <div class="item">
     <i class="minus icon"></i>
     <div class="content">
-      Backupbandbreite = Internet Uplink 
+      Backup-Bandbreite = Internet Uplink 
     </div>
   </div>
 </div>
@@ -763,19 +765,19 @@ Ein Amazon S3 kompatibler Storage mit SSD Cache und Copy on Write Snapshots via 
   <div class="item">
     <i class="map marker icon"></i>
     <div class="content">
-      Amazon S3 Compatible Schnittstelle
+      Amazon S3 kompatible Schnittstelle
     </div>
   </div>
   <div class="item">
     <i class="map marker icon"></i>
     <div class="content">
-      von 50GB bis 100TB je nach Wunsch 
+      von 50GB bis 100TB - Größe je nach Wunsch 
     </div>
   </div>
   <div class="item">
     <i class="map marker icon"></i>
     <div class="content">
-      15 Minten Snapshot Intervall 
+      15 Minuten Snapshot Intervall 
     </div>
   </div>
     <div class="item">
@@ -787,7 +789,7 @@ Ein Amazon S3 kompatibler Storage mit SSD Cache und Copy on Write Snapshots via 
     <div class="item">
     <i class="map marker icon"></i>
     <div class="content">
-      Direkt in das CDN Integrierbar
+      Direkt in das CDN integrierbar
     </div>
   </div>
           </div>
@@ -811,7 +813,7 @@ Ein Object Daten Speicher:
   <div class="item">
     <i class="map marker icon"></i>
     <div class="content">
-      Simple Key-Value Storage 
+      Simpler Key-Value Storage 
     </div>
   </div>
   <div class="item">
@@ -835,17 +837,17 @@ Ein Object Daten Speicher:
 
      <div id="scalability_modal" class="ui modal">
     <i class="close icon"></i>
-    <div class="header bm greentext centered">Chaching und Skalierung</div>
+    <div class="header bm greentext centered">Caching und Skalierung</div>
     <div class="content">
     <div class="ui two column divided grid">
         <div class="row">
           <div class="column">
-            <h3 class="centered">Wir bringen ihre Application überall hin. </h3>
-             <p> Zugriffszeiten, als ob der Server nebenan wäre. Caching ist eine sehr komplexe Thematik, daher würden wir Sie bitten, direkt an uns zu wenden. Gerne können Sie auch zu diesem Thema eine kostenlose Beratungsstunde in anspruch nehmen. </p>
+            <h3 class="centered">Wir bringen Ihre Applikation schnellstmöglich an den Klienten. </h3>
+             <p>Mit unseren Cachingtechniken sind die Zugriffszeiten so kurz, als wäre der Server nebenan. Caching ist eine sehr komplexe Thematik, daher würden wir Sie bitten, sich direkt an uns zu wenden. Gerne können Sie auch zu diesem Thema eine kostenlose Beratungsstunde in Anspruch nehmen. </p>
           </div>
           <div class="column">
-            <h3 class="centered"> Wachsen Sie horizontal mit ihrer Applikation. </h3>
-            </p>  Unsere Apps sind dank der Programmiersprachen und der sorgfältigen Programmierung realtiv einfach zu saklieren. Meist handelt es sich um Fremdsoftware, welche nicht so schnell wachsen kann. Auch in diesem Fall würde ich Sie bitten, einen Termin und ein Beratungsgespräch mit uns zu vereinbaren.</p>
+            <h3 class="centered"> Wachsen Sie horizontal mit Ihrer Applikation. </h3>
+            </p>  Unsere Apps sind Dank der von uns eingesetzten Programmiersprachen und unserer sorgfältiger Arbeit, realtiv einfach zu skalieren. Meist bremst Sie, eine bereits in Betrieb stehende, Fremdsoftware aus, welche nicht so schnell wachsen kann, wie von Ihnen gewünscht. Auch in diesem Fall würde ich Sie bitten, einen Termin und ein Beratungsgespräch mit uns zu vereinbaren.</p>
           </div>
         </div>
         <div class="row centered">
