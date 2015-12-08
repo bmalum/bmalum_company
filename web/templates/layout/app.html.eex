@@ -57,7 +57,7 @@
         <div class="twelve wide column centered padding_top_40px font_size_22px">
           <h1 class="ui header centered">Consulting & Entwicklung</h1>
           <p><center>Wir unterstützen und beraten Sie gerne bei der Umsetzung Ihrer IT-Ideen und helfen bei den wichtigen Entscheidungen.</center></p>
-          <p><center>Gerne übernehmen wir auch die Fachgespräche für Sie und vermitteln zwischen Kunde und Programmierer. Wir sehen uns auch gerne Ihre bestehenden Projekte an und helfen bei Performance-Engpässen oder bei Skalierungsproblemen.</center></p>
+          <p><center>Gerne übernehmen wir auch die Fachgespräche oder vermitteln zwischen Kunden und Programmierern. Wir sehen uns auch gerne Ihre bestehenden Projekte an und helfen bei Performance-Engpässen oder bei Skalierungsproblemen.</center></p>
         </div>
       </div>
       <div class="ui horizontal divider header">
@@ -68,13 +68,13 @@
           <div class="seven wide column">
             <div class="row">
               <h2 class="ui header centered">Beratung statt Marketing</h2>
-              <p>Unser Interesse liegt nicht daran, neue Hardware oder Dienstleistungen zu kaufen, sondern die perfekt abgestimmte IT-Lösung für Ihr Unternehmen.</p>
-              <p>Wir vertreten Sie mit dem Grundgedanken der Informationstechnologie. Mit unsrem breites Know-How stehen wir Ihnen gerne in jeder Lage zu Verfügung, egal ob ein Auftrag von uns Abgewickelt wird, oder wir nur das überwachende und organisierende Organ sind. </p>
+              <p>Unser Interesse liegt nicht daran, neue Hardware oder Dienstleistungen zu kaufen, sondern die perfekt abgestimmte IT-Lösung für Ihr Unternehmen zu finden.</p>
+              <p>Wir vertreten Sie mit dem Grundgedanken der Informationstechnologie. Mit unserem breiten Know-How stehen wir Ihnen gerne in jeder Lage zu Verfügung, egal ob ein Auftrag von uns abgewickelt wird, oder wir nur das überwachende und organisierende Organ sind. </p>
             </div>
             <div class="row padding_top_50px">
               <h2 class="ui header centered">IT Security & Safety</h2>
-              <p>In den letzten Jahren veränderte sich viel, speziell in den Sicherheitskritischen Schichten der Informationstechnologie.</p>
-              <p>Wir stehen gerne Ihren Systemadministratoren bei und helfen das System wieder zu sichern und die Firmeneigenen sowie Kundendaten zu sichern und ein ausfall sicheres System zu errichten.</p>
+              <p>In den letzten Jahren veränderte sich viel, speziell in den sicherheitskritischen Schichten der Informationstechnologie.</p>
+              <p>Wir stehen gerne Ihren Systemadministratoren bei und helfen das System wieder zu sichern und die Firmen- sowie Kundendaten zu sichern und ein ausfallsicheres System zu errichten.</p>
             </div>
           </div>
         </div>
@@ -92,7 +92,7 @@
         <div class="sixteen wide column padding_top_40px">
           <div class="row">
             <h1 class="ui header centered">Dienstleistungen</h1>
-            <h3 class="bm centered">Lösungen, flexible und individuell für jeden Kunden abstimmbar.</h3>
+            <h3 class="bm centered">Lösungen die für jeden Kunden flexibel und individuell abstimmbar sind.</h3>
             <div class="ui fluid centered cards">
               <div class="card">
                 <div class="content">
@@ -104,7 +104,7 @@
                     Details
                   </div>
                   <div class="description">
-                    Wir beraten Sie in allen IT-Angelegenheiten, damit Sie das bekommen was sie brauchen!
+                    Wir beraten Sie in allen IT-Angelegenheiten, damit Sie wirklich das bekommen, was sie brauchen!
                   </div>
                 </div>
                 <div class="extra content">
@@ -123,7 +123,7 @@
                     Details
                   </div>
                   <div class="description">
-                    Optimiertes und Professionelles Hosting für Ihre Website, e-Mails oder Applikationen.
+                    Optimiertes und professionelles Hosting für Ihre Website, E-Mails oder Applikationen.
                   </div>
                 </div>
                 <div class="extra content">
@@ -142,7 +142,7 @@
                     Details
                   </div>
                   <div class="description">
-                    Vom Prototypen bis zum hochverfügbaren Endprodukt. In Ruby, Erlang, Elixir und vielen weiteren Sprachen.
+                    Vom Prototypen bis zum hochverfügbaren Endprodukt. Die Entwicklung erfolgt in Ruby, Erlang, Elixir und vielen weiteren Sprachen.
                   </div>
                 </div>
                 <div class="extra content">
@@ -161,7 +161,7 @@
                     Details
                   </div>
                   <div class="description">
-                    Mit unseren Partner und unseren eigenen Conten Devlivery Netzwerk, können wir weltweite Erreichbarkeit und beindruckende Geschwindikeiten anbieten.
+                    Mit unseren Partnern und unserem eigenen Content Devlivery Netzwerk, können wir weltweite Erreichbarkeit und beindruckende Geschwindigkeiten anbieten.
                   </div>
                 </div>
                 <div class="extra content">
@@ -174,13 +174,13 @@
                 <div class="content">
                   <img class="right floated mini ui image" src="https://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
                   <div class="header">
-                    Projekt Begeleitung
+                    Projektbegleitung
                   </div>
                   <div class="meta">
                     Details
                   </div>
                   <div class="description">
-                    Wir begleiten Sie mit unserem Know-How durch den Begriffsurwald der Informatik und stehen Ihnen zur Seite bei der Anschaffung von neuen IT Hard und Software.
+                    Wir begleiten Sie mit unserem Know-How durch den Begriffsurwald der Informatik und stehen Ihnen zur Seite bei der Anschaffung von neuen IT-Hardware und Software.
                   </div>
                 </div>
                 <div class="extra content">
@@ -193,7 +193,7 @@
                 <div class="content">
                   <img class="right floated mini ui image" src="https://cdn.bmalum.com/bmalum/logos/logo_b_green.png">
                   <div class="header">
-                    Backup und Speicher
+                    Backup- und Speicherlösungen
                   </div>
                   <div class="meta">
                     Details
@@ -224,7 +224,7 @@
         <div class="ten wide column padding_top_40px">
           <h1 class="ui header centered">Consulting</h1>
           <h3 class="bm centered"> Wir sprechen Ihre Sprache und verstecken nichts hinter Fach-Chinesisch</h3>
-          <p class="bm centered">Informationstechnologie entwickelt immer schneller, wird vernetzter intelligenter und auch komplexer. Dir Firma immer auf den neusten Stand halten kann schwierig sein, desshalb kümmern wir uns um Ihre IT Infrasruktur und erklären Ihnen was momentan Stand der Dinge ist und ob diese auch für Ihren Einsatzzweck geeignet sind.  </p>
+          <p class="bm centered">Informationstechnologie entwickelt sich immer schneller, wird vernetzter, intelligenter und auch komplexer. Die Firma immer auf dem neuesten Stand halten, kann schwierig sein, desshalb kümmern wir uns um Ihre IT-Infrasruktur und erklären Ihnen was momentan Stand der Dinge ist und ob dies auch tatsächlich für Ihren Einsatzzweck geeignet ist. </p>
         </div>
         <div class="six wide column">
           <img class="ui image" src="https://cdn.bmalum.net/images/bmalum/var/plant-color.jpg">
@@ -237,7 +237,7 @@
         <div class="ten wide column padding_top_40px">
           <h1 class="ui header centered">Dienste</h1>
           <h3 class="bm centered">Was Sie brauchen, immer für Sie da. </h3>
-          <p class="bm centered">Durch unsere Partner sind wir in der Lage Ihnen eine Infrastrukur zu bieten, oder mit Ihnen aufzubauen, welche horizontal skaliert. Sie bezahlen in dem Moment nur die Ressourcen welche Ihr Dienst auch benötigt und die Infrastruktur wächst mit Ihrem Business mit.</p>
+          <p class="bm centered">Durch unsere Partner sind wir in der Lage, Ihnen eine Infrastrukur zu bieten oder mit Ihnen aufzubauen, welche horizontal skaliert. Sie bezahlen im jeweiligen Moment nur die Ressourcen, welche Ihr Dienst benötigt und die Infrastruktur wächst mit Ihrem Business mit.</p>
         </div>
       </div>
     </div>
@@ -251,11 +251,11 @@
         <div class="row">
           <h1 class="ui header centered">Über bMalum</h1>
           <h3 class="bm centered">Gegründet um zu helfen.</h3>
-          <p class="bm centered">Was uns immer störte waren die Hürden bei der Kommunikation zwischen Programmierern und Kunden. Auch wenn zwischen Kunde auch noch der Verkauf und Führungsmanagemant ist, um zu "übersetzten", neigen diese meist zu beschönigen. Auch oft hören wir:  "So einfach geht das aber nicht". Daher ist es für uns wichtig, eine neutrale Schicht zwischen Kunden zu bilden, Probleme zu erkennen und diese auch helfen zu beseitigen, nicht nur schön zu reden.</p>
+          <p class="bm centered">Was uns immer störte, waren die Hürden bei der Kommunikation zwischen Programmierern und deren Kunden. Selbst wenn sich zwischen Kunde noch der Verkauf und das Führungsmanagemant befindet, um zu "übersetzten", neigen diese meist dazu etwas zu beschönigen. Oftmals hören wir:  "So einfach geht das aber nicht". Daher ist es für uns wichtig, eine neutrale Schicht zwischen Kunden und Programmierern zu bilden, Probleme zu erkennen und auch diese beseitigen zu helfen und nicht nur schön zu reden.</p>
           <h3 class="bm centered">Warum ein Tropfen als Logo?</h3>
-          <p class="bm centered"> Dieser Tropfen symbolisiert einen Elixier Tropfen. Diesen habe ich gewählt, da die meiste Software in unserer Infrastruktur die tragende Aufgaben hat (außer Operating Sytsems) in Elixir geschrieben ist. Die Server hinter den CDN und auch die Webserver sind zu 90% powered by Elixir. Diese Sprache ist für Skalierung und hohe Verfügbarkeit konzipiert, man kann sogar neue Features zu laufenden Systemen hinzufügen ohne diese zu stoppen.
+          <p class="bm centered"> Dieser Tropfen symbolisiert einen Elixier-Tropfen. Diesen haben wir gewählt, da die meiste Software in unserer Infrastruktur, die eine tragende Aufgaben hat, (außer Operating Sytsems) in Elixir geschrieben ist. Die Server hinter dem CDN und auch die Webserver sind zu 90% "powered by Elixir". Diese Sprache ist für Skalierung und hohe Verfügbarkeit konzipiert, man kann selbst neue Features zu laufenden Systemen hinzufügen ohne diese zu stoppen.
             <h3 class="bm centered">bMalum & OpenSource ?</h3>
-            <p class="bm centered">Auch schon vor der Gründung von bMalum, legten wir Wert auf OpenSource. Die OpenScource Gemeinschaft ist groß und mächtig, gäbe es diese nicht, könntet ihr euch Informationsysteme und die Welt nicht mehr vorstellen. Desshalb Enwtickeln wir auch an OpenSource Projelten mit und wünschen uns auch von den Auftragsgeber diese OpenSource entwickeln zu lassen. Dies hat mehrer Vorteile, welche wir gerne weiter aufschlüsseln.</p>
+            <p class="bm centered">Auch schon vor der Gründung von bMalum legten wir Wert auf OpenSource. Die OpenScource-Gemeinschaft ist groß und einflussreich. Gäbe es diese nicht, könnte man sich verschiedenste Informationsysteme nicht mehr vorstellen. Desshalb entwickeln wir auch an OpenSource-Projekten mit und wünschen uns auch von den Auftragsgebern Ihre Aufträge als OpenSource entwickeln zu lassen, da es mehr Vorteile hat, welche wir bei Interesse gerne weiter mit Ihnen besprechen.</p><br>
           </div>
         </div>
       </div>
@@ -559,7 +559,7 @@
               Die individuelle und maßgefertige Lösungen zeichnen uns aus. Es ist uns wichtig dass Sie genau das bekommen, was Sie brauchen.
             </p>
             <h3 class="centerd">Was uns von anderen unterscheidet:</h3>
-            <p>  Wir haben jetzt schon verstanden, dass mehr oder stärkere Hardware nicht die Probleme der Zukunft löst. Denn in der Zukunft wird es mit Silizium keine Prozessoren mit 10Ghz oder mehr geben, sondern Prozessoren mit mehr als 64 Kernen. Das Probleme in aktuellen Projekten zu finden oder die passende Lösung für Ihre zukünftigen Projekte zu entwerfen, ist unsere Leidenschaft.</p>
+            <p>  Wir haben jetzt schon verstanden, dass mehr oder stärkere Hardware nicht die Probleme der Zukunft löst. Denn in der Zukunft wird es mit Silizium keine Prozessoren mit 10Ghz oder mehr geben, sondern Prozessoren mit mehr als 64 Kernen. Die Probleme in aktuellen Projekten zu finden oder die passende Lösung für Ihre zukünftigen Projekte zu entwerfen, ist unsere Leidenschaft.</p>
             <div class="ui large tag labels bm centered">
               <a class="ui  olive label">
                   0,99€ pro Einheit <font size="1"> * </font>
@@ -581,11 +581,11 @@
         <div class="row">
           <div class="column">
             <h3 class="centered">Prototyping</h3>
-            Wir entwickeln auf die schnelle einen funktionsfähigen Prototypen, jener genau ihr Problem löst aber noch nicht komplett Produktionsfrei ist. Dieser kann als Anhaltspunkt für andere Firmen, welche diese Software komplett umsetzt als Referenz verwendet werden. 
+            Wir entwickeln für Sie einen funktionsfähigen Prototypen, jener genau ihr Problem löst, jedoch noch nicht komplett Produktionsfrei ist. Dieser kann als Anhaltspunkt für andere Firmen, welche diese Software komplett umsetzt als Referenz verwendet werden. 
             <h3 class="centered">Hochverfügbare Software</h3>
-            Software, welche wenn ein Server ausfällt mit minimaler Ausfallzeit (>5-10 Sekunden) auf einen anderen Server wechselt ohne Datenverlust. Diese Technik setzten wir ohne Virtualisierung ein (falls Softwareunterstützung), ansonten mit der Lizenzfreien KVM Technik.
+            Software, welche wenn ein Server ausfällt mit minimaler Ausfallzeit (< 5-10 Sekunden) auf einen anderen Server wechselt ohne Datenverlust. Diese Technik setzten wir ohne Virtualisierung ein (falls Softwareunterstützung vorhanden), ansonten kommt die Lizenzfreien KVM Technik zum Einsatz.
             <h3 class="centered">Verteilte und Dezentrale Software</h3>
-            Ein sehr spannendes und zukunftoriernte Technik. Eine Software auf mehreren Servern laufen zu lassen und somit Horizontal zu Skalieren ist ein extremer Gewinn für expandierenden Firmen. Es ist auch möglich die gleiche Software auf verschieder Hardware sowie an Orten. 
+            Eine sehr spannende und zukunftoriernte Technik. Eine Software auf mehreren Servern laufen zu lassen und somit Horizontal zu skalieren ist ein extremer Gewinn für expandierenden Firmen. Es ist auch möglich die gleiche Software auf verschieder Hardware sowie an Orten. 
             <div class="ui tag labels bm centered">
   <a class="ui olive label">
     Zu den Preisen
@@ -607,9 +607,9 @@
           <div class="column">
             <h3 class="bm centered">Wir begleiten Sie und Ihr Projekt</h3>
             <p class="bm centered">
-            Falls Ihr Projekt sich nicht so entwickelt wie Sie sich es vorstellen, helfen wir Ihnen gerne, alles wieder ins Lot zu rücken. Auch falls es ein verständigungs Problem zwischen Programmierern und Kunden gibt, stehen wir gerne zwischen dernen Experten und setzten ihre Bedürfnisse ins Rampenlicht berichten gerne in einer natürlichen und verständlichen Sprache Ihnen wie der Stand der Dinge ist.  <p>
+            Falls sich Ihr Projekt nicht so entwickelt wie Sie es sich vorstellen, helfen wir Ihnen gerne, alles wieder ins Lot zu rücken. Auch wenn es ein verständigungs Problem zwischen Programmierern und Kunden gibt, stehen wir gerne zwischen dernen Experten und setzten ihre Bedürfnisse ins Rampenlicht berichten gerne in einer natürlichen und verständlichen Sprache, wie der Stand der Dinge ist.  <p>
             <p>
-              Wir sehen uns gerne kostenlos Ihr Projekt an und können wenn Sie wollen, die Projektleitung übernehmen, das Projekt auf Schritt und Tritt überwachen, oder nur bei den Meetings anwesend sein und übersetzen und mit unserer Expertiese and Ihrer Seite bereitzustehen. 
+              Wir sehen uns gerne kostenlos Ihr Projekt an und können falls gewünscht, die Projektleitung übernehmen, das Projekt auf Schritt und Tritt überwachen, oder nur bei den Meetings anwesend sein, übersetzen und mit unserer Expertiese beratend and Ihrer Seite beistehen. 
               <div class="ui tag labels bm centered">
   <a class="ui olive label">
     Zu den Preisen
