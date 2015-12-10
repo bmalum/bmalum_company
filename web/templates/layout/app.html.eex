@@ -15,7 +15,8 @@
     <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
     <link rel="stylesheet" href="https://cdn.bmalum.com/semantic-ui/2.1/semantic.css">
     <link rel="stylesheet" href="https://cdn.bmalum.com/animate-css/animate.css">
-    <title>bMalum!</title>
+    <title>bMalum</title>
+    <link rel="alternate" href="http://bmalum.com" hreflang="de-at" />
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
   </head>
   <body ng-controller="ScrollController">
