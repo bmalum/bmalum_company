@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="bmalumCompany">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,7 +19,7 @@
     <link rel="alternate" href="http://bmalum.com" hreflang="de-at" />
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
   </head>
-  <body ng-controller="ScrollController">
+  <body ng-app="bmalumCompany" ng-controller="ScrollController">
     <div id="sidebar_right" class="ui left vertical inverted sidebar labeled icon menu">
       <a class="item">
         <i class="home icon"></i>
